@@ -1,0 +1,953 @@
+date	municipality	age	sex	pangolin_lineage
+2022-01-05	""	20	Male	BA.1.1
+2022-01-05	""	23	Male	BA.1.1
+2022-01-06	""	63	Female	BA.1.20
+2022-01-06	""	35	Female	BA.1.1
+2022-01-05	""	36	Male	BA.1.1.14
+2022-01-07	""	21	Male	BA.1
+2022-01-07	""	31	Female	BA.1.14
+2022-01-04	""	41	Male	AY.43
+2022-01-07	""	24	Female	BA.1.14.1
+2022-01-07	""	20	Female	BA.1
+2022-01-31	Inocencia	64	Male	BA.1.15
+2022-01-31	Inocencia	19	Female	BA.1.1
+2022-01-31	Inocencia	52	Male	BA.1.1
+2022-01-31	Inocencia	22	Male	BA.1.1
+2022-01-31	Inocencia	51	Male	BA.1
+2022-01-31	Inocencia	72	Female	BA.1
+2022-01-31	Rio Brilhante	40	Male	BA.1.14.1
+2022-01-31	Rio Brilhante	49	Male	BA.1.17
+2022-01-31	Rio Brilhante	53	Male	BA.1.17
+2022-01-31	Rio Brilhante	20	Male	BA.1.14.1
+2022-01-31	Rio Brilhante	22	Male	BA.1.1
+2022-01-31	Rio Brilhante	40	Female	BA.1
+2022-01-31	Rio Brilhante	33	Male	BA.1.1
+2022-01-31	Rio Brilhante	46	Male	BA.1.1
+2022-01-31	Rio Brilhante	41	Female	BA.1.14.1
+2022-01-31	Rio Brilhante	59	Female	BA.1.1
+2022-01-31	Rio Brilhante	32	Female	BA.1.17
+2022-01-31	Rio Brilhante	33	Male	BA.1.1
+2022-01-31	Rio Brilhante	42	Male	BA.1
+2022-02-02	Vicentina	40	Female	BA.1.1
+2022-02-01	Campo Grande	58	Male	BA.1.14.1
+2022-02-01	Campo Grande	48	Female	BA.1.14.2
+2022-02-01	Campo Grande	23	Female	BA.1.1
+2022-02-01	Campo Grande	30	Female	BA.1
+2022-02-01	Campo Grande	34	Male	BA.1
+2022-02-01	Campo Grande	21	Female	BA.1.14.1
+2022-02-01	Campo Grande	51	Male	BA.1
+2022-01-31	Campo Grande	35	Female	BA.1
+2022-01-31	Campo Grande	64	Female	BA.1
+2022-01-31	Campo Grande	24	Female	BA.1.1
+2022-01-31	Campo Grande	45	Female	BA.1.1
+2022-01-31	Campo Grande	74	Male	BA.1.15
+2022-01-31	Campo Grande	51	Female	BA.1.1
+2022-01-30	Campo Grande	34	Female	BA.1.15
+2022-01-31	Campo Grande	38	Female	BA.1
+2022-01-31	Campo Grande	34	Male	BA.1.15
+2022-01-30	Campo Grande	31	Male	BA.1
+2022-01-31	Campo Grande	64	Male	BA.1
+2022-01-31	Campo Grande	60	Female	BA.1
+2022-01-31	Campo Grande	75	Male	BA.1.14.2
+2022-01-31	Campo Grande	4	Male	BA.1.14
+2022-01-31	Campo Grande	25	Female	BA.1
+2022-01-31	Campo Grande	26	Male	BA.1
+2022-01-31	Campo Grande	46	Female	BA.1
+2022-01-31	Campo Grande	56	Male	BA.1.14.1
+2022-01-31	Campo Grande	68	Male	BA.1
+2022-01-31	Campo Grande	65	Female	BA.1
+2022-01-31	Campo Grande	40	Female	BA.1.14.2
+2022-01-31	Campo Grande	50	Female	BA.1
+2022-01-31	Campo Grande	43	Female	BA.1.17
+2022-01-31	Campo Grande	79	Male	BA.1.1
+2022-01-31	Campo Grande	54	Male	BA.1
+2022-01-31	Campo Grande	37	Female	BA.1.14.1
+2022-01-31	Campo Grande	39	Female	BA.1.17
+2022-01-31	Campo Grande	54	Female	BA.1
+2022-01-31	Campo Grande	32	Male	BA.1
+2022-01-31	Campo Grande	37	Male	BA.1
+2022-01-31	Campo Grande	40	Male	BA.1.1
+2022-01-31	Campo Grande	39	Male	BA.1
+2022-01-31	Campo Grande	49	Female	BA.1.1
+2022-01-31	Campo Grande	66	Female	BA.1
+2022-01-31	Tres Lagoas	68	Female	BA.1
+2022-01-31	Tres Lagoas	18	Male	BA.1
+2022-01-31	Tres Lagoas	36	Female	BA.1
+2022-01-31	Tres Lagoas	60	Female	BA.1.14
+2022-01-31	Tres Lagoas	9	Female	BA.1.1
+2022-01-31	Tres Lagoas	19	Female	BA.1.1
+2022-01-31	Tres Lagoas	64	Male	BA.1.1
+2022-01-31	Tres Lagoas	19	Female	BA.1.17
+2022-01-31	Tres Lagoas	63	Female	BA.1
+2022-01-31	Tres Lagoas	48	Male	BA.1
+2022-01-31	Tres Lagoas	31	Male	BA.1
+2022-01-31	Tres Lagoas	77	Male	BA.1.1
+2022-01-31	Tres Lagoas	13	Female	BA.1.14
+2022-01-31	Tres Lagoas	60	Female	BA.1.1
+2022-01-31	Tres Lagoas	2	Male	BA.1.1
+2022-01-31	Tres Lagoas	53	Female	BA.1.1
+2022-01-31	Tres Lagoas	54	Female	BA.1.1
+2022-01-31	Tres Lagoas	21	Female	BA.1.1
+2022-01-31	Tres Lagoas	2	Male	BA.1.1.14
+2022-01-31	Tres Lagoas	39	Female	BA.1
+2022-01-31	Tres Lagoas	58	Female	BA.1.1
+2022-01-31	Tres Lagoas	40	Female	BA.1.15
+2022-01-31	Tres Lagoas	38	Male	BA.1.1
+2022-01-31	Tres Lagoas	44	Female	BA.1.15
+2022-01-31	Tres Lagoas	22	Male	BA.1.1
+2022-01-31	Tres Lagoas	21	Male	BA.1.14
+2022-01-31	Costa Rica	54	Male	BA.1
+2022-01-31	Costa Rica	41	Male	BA.1.15
+2022-01-31	Costa Rica	41	Male	BA.1.14.1
+2022-01-31	Costa Rica	25	Female	BA.1
+2022-01-31	Selviria	20	Male	BA.1.14.1
+2022-01-31	Nova Alvorada	46	Female	BA.1.14.1
+2022-01-31	Nova Alvorada	35	Male	BA.1.14.1
+2022-01-03	Bataypora	56	Female	BA.1.17
+2022-01-03	Campo Grande	56	Female	BA.1.15
+2022-01-03	Cassilandia	57	Male	BA.1.15
+2022-01-03	Cassilandia	55	Female	BA.1.15
+2022-01-03	Navirai	47	Female	BA.1.20
+2022-01-03	Rio Brilhante	29	Female	AY.43
+2022-01-03	Rio Brilhante	34	Male	AY.43
+2022-01-03	Tres Lagoas	19	Male	BA.1
+2022-01-04	Campo Grande	51	Female	AY.34.1
+2022-01-04	Campo Grande	26	Male	BA.1.14.2
+2022-01-04	Coronel Sapucaia	62	Female	AY.43
+2022-01-04	Navirai	33	Female	BA.1.20
+2022-01-05	Aquidauana	48	Male	BA.1
+2022-01-05	Bonito	61	Male	BA.1.14.1
+2022-01-05	Jardim	19	Male	BA.1.15
+2022-01-05	Paranaiba	21	Male	BA.1.14.1
+2022-01-06	Bonito	22	Female	BA.1.14
+2022-01-06	Costa Rica	29	Male	BA.1.14.1
+2022-01-06	Gloria de Dourados	38	Female	BA.1.15
+2022-01-06	Iguatemi	19	Male	BA.1.20
+2022-01-06	Nova Alvorada do Sul	29	Male	BA.1.1
+2022-01-06	Paranaiba	33	Male	BA.1.14.2
+2022-01-06	Rochedo	40	Female	BA.1.14.1
+2022-01-06	Rochedo	29	Male	BA.1.14.1
+2022-01-06	Santa Rita do Pardo	28	Female	BA.1
+2022-01-06	Tres Lagoas	69	Female	BA.1
+2022-01-07	Aquidauana	74	Male	BA.1
+2022-01-07	Costa Rica	7	Male	BA.1
+2022-01-07	Costa Rica	3	Female	BA.1
+2022-01-07	Ladario	32	Female	BA.1.14.1
+2022-01-07	Tres Lagoas	22	Male	BA.1.1
+2022-01-08	Campo Grande	77	Male	BA.1
+2022-01-08	Navirai	3	Male	BA.1.14
+2022-01-09	Aral Moreira	52	Female	AY.101
+2022-01-09	Campo Grande	26	Female	BA.1.14.1
+2022-01-09	Campo Grande	78	Female	BA.1.14.1
+2022-01-10	Anaurilandia	77	Female	BA.1.17
+2022-01-10	Campo Grande	27	Male	BA.1
+2022-01-10	Campo Grande	29	Female	BA.1
+2022-01-10	Campo Grande	21	Male	BA.1.14.1
+2022-01-10	Campo Grande	9	Male	BA.1.14.1
+2022-01-12	Campo Grande	9	Male	BA.1
+2022-01-12	Cassilandia	81	Male	BA.1.14.1
+2022-01-12	Corguinho	51	Female	BA.1.14
+2022-01-12	Dourados	19	Female	BA.1
+2022-01-13	Deodapolis	44	Male	BA.1
+2022-01-13	Jardim	32	Male	BA.1.14.1
+2022-01-13	Nioaque	2	Male	BA.1
+2022-01-13	Nova Andradina	38	Male	BA.1.17
+2022-01-15	Campo Grande	82	Female	BA.1.14.1
+2022-01-15	Campo Grande	15	Female	BA.1.1
+2022-01-16	Dourados	89	Male	BA.1
+2022-01-17	Campo Grande	12	Male	BA.1
+2022-01-17	Campo Grande	11	Female	BA.1
+2022-01-17	Campo Grande	9	Male	BA.1.1
+2022-01-17	Campo Grande	82	Male	BA.1.1.1
+2022-01-17	Campo Grande	47	Male	BA.1.1.1
+2022-01-17	Campo Grande	2	Female	BA.1.15
+2022-01-18	Campo Grande	15	Female	BA.1.14.1
+2022-01-18	Campo Grande	11	Female	BA.1.17
+2022-01-18	Campo Grande	21	Female	BA.1.14.1
+2022-01-18	Coxim	37	Male	BA.1.14
+2022-01-18	Navirai	2	Female	BA.1.15
+2022-01-18	Paraiso das Aguas	8	Male	BA.1.14.1
+2022-01-19	Tres Lagoas	10	Male	BA.1.1
+2022-01-20	Bonito	9	Female	BA.1.14.1
+2022-01-04	Campo Grande	37	Female	BA.1.14.2
+2022-01-06	Angelica	27	Male	BA.1
+2022-01-06	Laguna Carapa	41	Female	BA.1.15
+2022-01-06	Laguna Carapa	23	Female	BA.1.14.2
+2022-01-06	Campo Grande	52	Female	BA.1.1
+2022-01-15	Campo Grande	9	Male	BA.1.1
+2022-01-15	Campo Grande	9	Female	BA.1.1
+2022-01-16	Campo Grande	7	Female	BA.1.1
+2022-01-05	Itaquirai	37	Female	BA.1
+2022-02-08	""	57	Female	BA.1.14
+2022-02-02	""	26	Female	BA.1.14.1
+2022-02-08	""	11	Female	BA.1.1
+2022-02-02	""	30	Male	BA.1.15
+2022-02-07	""	46	Male	BA.1.1
+2022-02-14	""	38	Female	BA.1.17
+2022-02-10	""	47	Male	BA.1.1
+2022-02-10	""	53	Female	BA.1
+2022-03-04	""	65	Female	BA.1.15
+2022-03-15	""	28	Male	BA.1.1.1
+2022-03-10	""	12	Male	BA.1.14.1
+2022-03-10	""	15	Female	BA.2
+2022-03-03	""	45	Male	BA.2
+2022-04-04	""	53	Female	BA.2
+2022-04-13	""	59	Female	BA.1
+2022-05-13	""	12	Female	BA.2
+2022-05-12	""	65	Male	BA.2
+2022-05-13	""	52	Male	BA.2
+2022-05-11	""	36	Male	BA.2
+2022-05-05	""	16	Female	BA.2
+2022-06-10	""	37	Male	BA.5.2.1
+2022-06-14	""	43	Female	BA.5.2.1
+2022-06-08	""	40	Female	BA.2.12.1
+2022-06-03	""	40	Female	BA.2
+2022-07-04	""	27	Female	BA.4.1
+2022-07-04	""	55	Male	BA.5.2.1
+2022-07-04	""	47	Male	BA.5.2.1
+2022-07-07	""	72	Female	BA.5.2.1
+2022-07-07	""	29	Male	BA.5.2.1
+2022-07-02	""	46	Female	BA.5.2.1
+2022-07-07	""	28	Female	BA.5.2.1
+2022-08-09	""	34	Female	BA.5.2.1
+2022-08-10	""	86	Female	BA.4
+2022-08-02	""	38	Female	BA.4
+2022-08-08	""	37	Female	BA.5.1
+2022-08-04	""	77	Female	BA.5.2.1
+2022-08-04	""	65	Female	BA.5.1
+2022-08-04	""	14	Male	BA.5.1
+2022-08-02	""	70	Male	BA.5.2.1
+2022-08-08	""	50	Female	BA.5.2.1
+2022-08-11	""	55	Female	BA.5.1
+2022-08-02	""	50	Female	BA.5.1
+2022-08-12	""	70	Female	BA.5.2.1
+2022-08-06	""	73	Female	BA.5.2
+2022-01-24	Campo Grande	42	Female	BA.1.1
+2022-01-24	Campo Grande	59	Male	BA.1.14.1
+2022-01-24	Campo Grande	28	Male	BA.1.14.1
+2022-02-01	Campo Grande	19	Female	BA.1.14.1
+2022-03-01	Campo Grande	49	Male	BA.1.14.1
+2022-03-02	Campo Grande	62	Male	BA.1
+2022-03-04	Campo Grande	47	Male	BA.1.14.1
+2022-03-04	Campo Grande	34	Female	BA.1.17
+2022-03-07	Campo Grande	63	Female	BA.1
+2022-01-24	Campo Grande	46	Female	BA.1
+2022-01-24	Campo Grande	49	Male	BA.1.14
+2022-01-24	Campo Grande	44	Male	BA.1.14.1
+2022-01-24	Campo Grande	20	Male	BA.1.14.1
+2022-01-24	Campo Grande	53	Female	BA.1.14.1
+2022-01-24	Campo Grande	14	Male	BA.1.14.1
+2022-01-24	Campo Grande	47	Male	BA.1
+2022-01-24	Campo Grande	55	Male	BA.1.1
+2022-01-24	Campo Grande	40	Female	BA.1.1
+2022-01-24	Campo Grande	27	Male	BA.1.14.1
+2022-01-24	Campo Grande	53	Male	BA.1
+2022-01-24	Campo Grande	24	Female	BA.1.14.1
+2022-01-24	Campo Grande	42	Female	BA.1.14.1
+2022-01-24	Campo Grande	42	Female	BA.1.14
+2022-01-24	Campo Grande	30	Male	BA.1
+2022-01-24	Campo Grande	51	Male	BA.1.14.2
+2022-01-24	Campo Grande	36	Female	BA.1.14.1
+2022-01-24	Campo Grande	47	Female	BA.1
+2022-01-24	Campo Grande	58	Female	BA.1.14.1
+2022-01-24	Campo Grande	37	Female	BA.1.15
+2022-01-24	Campo Grande	55	Female	BA.1
+2022-01-24	Campo Grande	28	Male	BA.1.14.1
+2022-01-24	Campo Grande	49	Female	BA.1
+2022-01-24	Campo Grande	29	Male	BA.1.14.1
+2022-01-24	Campo Grande	28	Male	BA.1
+2022-01-24	Campo Grande	36	Male	BA.1.14.1
+2022-01-24	Campo Grande	51	Male	BA.1.14.1
+2022-01-24	Campo Grande	30	Male	BA.1.14.1
+2022-01-24	Campo Grande	67	Male	BA.1
+2022-01-24	Campo Grande	27	Female	BA.1
+2022-01-24	Campo Grande	67	Female	BA.1
+2022-01-24	Campo Grande	26	Female	BA.1
+2022-01-24	Campo Grande	32	Female	BA.1
+2022-01-24	Campo Grande	23	Male	BA.1.14
+2022-01-24	Campo Grande	70	Male	BA.1.1.1
+2022-01-24	Campo Grande	31	Male	BA.1
+2022-01-24	Campo Grande	51	Female	BA.1.14.1
+2022-01-24	Campo Grande	59	Female	BA.1.1
+2022-01-24	Campo Grande	49	Female	BA.1.17.2
+2022-01-24	Campo Grande	38	Female	BA.1
+2022-01-24	Campo Grande	28	Female	BA.1
+2022-02-10	Campo Grande	36	Male	BA.1.14.1
+2022-02-10	Campo Grande	18	Female	BA.1
+2022-02-10	Campo Grande	42	Male	BA.1.14.1
+2022-02-10	Campo Grande	31	Female	BA.1.14.1
+2022-02-10	Campo Grande	48	Female	BA.1.14.1
+2022-02-10	Campo Grande	1	Male	BA.1.20
+2022-02-10	Campo Grande	40	Female	BA.1
+2022-02-10	Campo Grande	23	Female	BA.1.14.1
+2022-02-10	Campo Grande	53	Male	BA.1.14.1
+2022-02-10	Campo Grande	53	Female	BA.1.14.2
+2022-02-09	Campo Grande	40	Female	BA.1.14
+2022-02-26	Campo Grande	96	Female	BA.1.14.1
+2022-02-27	Campo Grande	7	Female	BA.1.1
+2022-01-31	Campo Grande	20	Male	BA.1.1
+2022-01-31	Campo Grande	40	Female	BA.1.14.1
+2022-02-01	Campo Grande	55	Female	BA.1.14.1
+2022-02-01	Campo Grande	64	Female	BA.1
+2022-01-31	Campo Grande	44	Female	BA.1.14.2
+2022-02-01	Campo Grande	35	Male	BA.1.14.2
+2022-02-01	Campo Grande	21	Female	BA.1
+2022-02-01	Campo Grande	49	Female	BA.1.1
+2022-02-01	Campo Grande	46	Male	BA.1.14.1
+2022-02-01	Campo Grande	23	Female	BA.1.1
+2022-02-01	Campo Grande	23	Female	BA.1.1
+2022-02-01	Campo Grande	21	Male	BA.1.15
+2022-02-01	Campo Grande	57	Female	BA.1.15
+2022-02-01	Campo Grande	42	Male	BA.1.1
+2022-02-01	Campo Grande	63	Male	BA.1.1
+2022-02-01	Campo Grande	69	Male	BA.1.14.2
+2022-02-01	Campo Grande	40	Female	BA.1.1
+2022-02-18	Campo Grande	5	Male	BA.1.14
+2022-02-11	Campo Grande	15	Female	BA.1.14.1
+2022-02-11	Campo Grande	27	Female	BA.1
+2022-02-12	Campo Grande	46	Male	BA.1
+2022-02-11	Campo Grande	69	Female	BA.1.1
+2022-02-16	Campo Grande	24	Female	BA.1.14.1
+2022-02-16	Campo Grande	49	Male	BA.1.14.1
+2022-02-16	Campo Grande	7	Female	BA.1
+2022-03-01	Campo Grande	30	Male	BA.1
+2022-01-29	Campo Grande	90	Female	BA.1.1
+2022-01-24	Campo Grande	72	Female	AY.43
+2022-01-24	Campo Grande	77	Female	BA.1.14.1
+2022-02-13	Sidrolandia	64	Female	BA.1.17
+2022-01-29	Mundo Novo	88	Male	BA.1.15
+2022-01-29	Corumba	25	Female	BA.1
+2022-01-27	Jardim	36	Female	BA.1.14.1
+2022-01-26	Ponta Pora	49	Male	BA.1
+2022-01-26	Ponta Pora	29	Female	BA.1.14
+2022-01-27	Navirai	63	Male	BA.1.20
+2022-01-25	Amambai	50	Female	BA.1
+2022-02-01	Ribas do Rio Pardo	24	Female	BA.1
+2022-02-28	Ponta Pora	80	Male	BA.1.1
+2022-02-28	Costa Rica	14	Male	BA.1.14.1
+2022-02-28	Ivinhema	87	Male	BA.1.1
+2022-02-28	Campo Grande	80	Female	BA.1.1
+2022-02-26	Dourados	35	Male	BA.1.14.1
+2022-03-01	Bela Vista	12	Male	BA.1
+2022-03-02	Inocencia	73	Female	BA.1.1
+2022-03-02	Itapora	55	Female	B.1.1.529
+2022-03-02	Rio Brilhante	51	Male	B.1.1.529
+2022-03-03	Jardim	61	Male	B.1.1.529
+2022-03-02	Fatima do Sul	86	Male	BA.1
+2022-03-02	Caarapo	1	Male	BA.1.15
+2022-03-02	Ponta Pora	76	Male	BA.1.1
+2022-03-02	Tres Lagoas	53	Female	B.1.1.529
+2022-03-03	Dourados	84	Male	BA.1.1
+2022-03-02	Angelica	88	Female	BA.1.17
+2022-03-02	Cassilandia	3	Female	BA.1.1
+2022-03-03	Costa Rica	17	Female	BA.1.15
+2022-03-03	Rio Negro	30	Female	BA.1
+2022-03-03	Nova Alvorada do Sul	65	Male	BA.1.1
+2022-03-04	Nova Alvorada do Sul	14	Male	BA.1.17
+2022-03-04	Ponta Pora	101	Male	BA.2
+2022-03-04	Tres Lagoas	44	Male	BA.1.1
+2022-03-05	Amambai	64	Female	BA.1
+2022-03-05	Campo Grande	78	Male	BA.1.15
+2022-03-07	Campo Grande	56	Female	BA.1
+2022-03-06	Anastacio	69	Female	B.1.1.529
+2022-03-05	Sao Gabriel do Oeste	55	Male	B.1.1.529
+2022-03-05	Sao Gabriel do Oeste	55	Male	BA.1.14.1
+2022-03-06	Rio Negro	54	Male	BA.1.1
+2022-03-07	Aral Moreira	37	Female	BA.1.1
+2022-03-07	Nova Alvorada do Sul	26	Female	BA.1.17
+2022-03-07	Nova Alvorada do Sul	70	Female	BA.1.17.2
+2022-03-07	Paranaiba	23	Female	BA.1.1.1
+2022-03-07	Dourados	83	Male	B.1.1.529
+2022-03-08	Campo Grande	56	Male	BA.1
+2022-03-08	Amambai	21	Male	B.1.1.529
+2022-03-08	Aquidauana	79	Male	BA.1.15
+2022-03-10	Campo Grande	73	Male	BA.1.17
+2022-03-10	Campo Grande	57	Female	BA.1.17
+2022-03-09	Miranda	54	Female	BA.1.1
+2022-03-10	Amambai	84	Female	BA.1.20
+2022-03-10	Bandeirantes	29	Female	BA.1
+2022-03-10	Cassilandia	66	Male	BA.1.14.1
+2022-03-11	Rio Brilhante	28	Male	BA.1
+2022-03-11	Rio Brilhante	72	Male	BA.1.15
+2022-03-11	Tres Lagoas	26	Male	BA.1.1
+2022-03-12	Campo Grande	40	Male	BA.1.14.1
+2022-03-14	Campo Grande	23	Female	BA.1.17.2
+2022-03-13	Rio Negro	73	Male	BA.1.1
+2022-03-11	Sao Gabriel do Oeste	87	Male	B.1.1.529
+2022-03-12	Caracol	86	Female	BA.1.15
+2022-03-16	Tres Lagoas	86	Male	BA.1.1
+2022-03-16	Rio Brilhante	88	Female	BA.1
+2022-03-16	Dourados	92	Female	BA.1.17
+2022-03-17	Coxim	82	Male	BA.1
+2022-03-17	Campo Grande	22	Male	BA.1.1
+2022-03-18	Campo Grande	35	Female	BA.2
+2022-03-17	Tres Lagoas	23	Male	BA.1.1.14
+2022-03-17	Tres Lagoas	3	Female	BA.1
+2022-03-17	Tres Lagoas	21	Female	BA.1.15
+2022-03-17	Chapadao do Sul	34	Female	BA.1
+2022-03-17	Nova Alvorada do Sul	69	Male	BA.1.14.1
+2022-03-17	Rio Negro	43	Male	BA.1
+2022-03-18	Campo Grande	9	Male	BA.1.17
+2022-03-21	Navirai	39	Female	BA.2
+2022-03-18	Tres Lagoas	46	Female	BA.1
+2022-03-18	Rio Brilhante	29	Male	BA.1.1
+2022-03-18	Rio Brilhante	9	Female	BA.1
+2022-03-19	Campo Grande	31	Female	BA.1.17
+2022-03-21	Campo Grande	51	Female	BA.2
+2022-03-18	Campo Grande	36	Female	BA.1
+2022-03-21	Rio Brilhante	29	Female	BA.1.15
+2022-03-21	Dourados	75	Male	BA.2
+2022-03-21	Campo Grande	43	Male	BA.1
+2022-03-22	Campo Grande	13	Female	BA.1.14.1
+2022-03-21	Tres Lagoas	52	Male	BA.1.1
+2022-03-21	Guia Lopes da Laguna	1	Female	BA.1.14.1
+2022-03-21	Guia Lopes da Laguna	23	Female	BA.1.14.1
+2022-03-21	Campo Grande	22	Male	B.1.1.529
+2022-03-21	Campo Grande	28	Male	BA.2
+2022-03-23	Campo Grande	37	Female	BA.1.14.1
+2022-03-22	Tres Lagoas	38	Female	BA.2
+2022-03-22	Tres Lagoas	21	Female	BA.1.1
+2022-03-22	Jardim	48	Female	BA.1
+2022-03-22	Rio Brilhante	21	Female	BA.1
+2022-03-24	Caarapo	38	Female	BA.1.1
+2022-03-23	Campo Grande	65	Male	BA.1.14.1
+2022-03-24	Camapua	60	Female	BA.1.1
+2022-03-24	Paranaiba	67	Male	BA.1.1
+2022-03-25	Tres Lagoas	45	Female	BA.1
+2022-03-25	Tres Lagoas	41	Female	BA.1
+2022-03-25	Tres Lagoas	38	Female	BA.1.1
+2022-03-27	Anastacio	69	Female	BA.1
+2022-03-28	Campo Grande	37	Male	BA.1.1
+2022-03-28	Rio Brilhante	46	Female	BA.1
+2022-03-28	Aquidauana	69	Female	BA.1
+2022-03-28	Tres Lagoas	49	Female	BA.1
+2022-03-28	Tres Lagoas	9	Female	BA.1
+2022-03-29	Tres Lagoas	41	Female	BA.2
+2022-03-30	Tres Lagoas	22	Male	BA.2
+2022-03-29	Campo Grande	78	Female	BA.1.1
+2022-03-30	Ponta Pora	22	Female	BA.1
+2022-04-01	Ponta Pora	39	Female	BA.1
+2022-03-30	Navirai	69	Female	BA.1.1
+2022-04-01	Tres Lagoas	62	Female	BA.1.15
+2022-04-03	Chapadao do Sul	91	Female	BA.1.1
+2022-04-04	Campo Grande	33	Female	BA.2
+2022-04-04	Tres Lagoas	36	Female	BA.1.15
+2022-04-05	Campo Grande	46	Female	BA.2
+2022-04-05	Campo Grande	29	Female	BA.2
+2022-04-05	Tres Lagoas	56	Male	BA.1.1
+2022-04-05	Tres Lagoas	56	Female	BA.1.1
+2022-04-05	Tres Lagoas	43	Female	BA.2
+2022-04-06	Tres Lagoas	29	Male	BA.2
+2022-04-06	Jardim	27	Female	BA.1.1
+2022-04-06	Campo Grande	55	Female	BA.2
+2022-04-06	Tres Lagoas	47	Male	BA.1.1
+2022-04-06	Paranhos	79	Male	BA.1.1
+2022-04-07	Campo Grande	73	Male	BA.1.15
+2022-04-07	Dourados	78	Female	BA.1
+2022-04-08	Tres Lagoas	53	Male	BA.2
+2022-04-10	Aparecida do Taboado	88	Male	BA.2
+2022-04-12	Bela Vista	95	Female	BA.2.56
+2022-04-13	Ponta Pora	30	Female	BA.2
+2022-04-15	Dourados	85	Female	BA.2
+2022-03-03	Fatima do Sul	81	Female	BA.1
+2022-03-02	Jardim	83	Female	BA.1.14.1
+2022-03-03	Rio Brilhante	22	Male	BA.1.14.1
+2022-03-03	Tres Lagoas	26	Female	BA.1
+2022-03-03	Rio Brilhante	59	Male	BA.1
+2022-03-02	Costa Rica	28	Male	BA.1.14.1
+2022-03-02	Costa Rica	36	Female	BA.1
+2022-03-02	Itapora	44	Female	B.1.1.529
+2022-03-02	Campo Grande	85	Female	BA.1
+2022-03-01	Campo Grande	32	Male	BA.1.1
+2022-03-02	Tres Lagoas	38	Male	BA.1.1
+2022-03-01	Campo Grande	87	Female	BA.1.14.1
+2022-03-01	Navirai	38	Female	BA.1.14.1
+2022-03-02	Bodoquena	47	Male	BA.1.14.1
+2022-03-03	Itapora	59	Female	BA.1.1
+2022-03-02	Tres Lagoas	54	Female	BA.1
+2022-03-02	Tres Lagoas	48	Female	BA.1
+2022-03-02	Tres Lagoas	58	Male	BA.1
+2022-02-28	Costa Rica	28	Female	BA.1.14
+2022-02-28	Costa Rica	13	Male	BA.1.14.1
+2022-02-28	Costa Rica	28	Female	BA.1.14
+2022-02-28	Costa Rica	51	Male	BA.1.14.1
+2022-02-28	Tres Lagoas	39	Female	BA.1.1
+2022-03-02	Rio Brilhante	63	Female	BA.1.15
+2022-04-17	Campo Grande	64	Female	BA.2
+2022-04-18	Navirai	72	Male	BA.1.1.14
+2022-04-19	Campo Grande	80	Female	B.1.1.529
+2022-04-20	Campo Grande	62	Male	BA.1.1
+2022-04-21	Navirai	44	Female	BA.1.17
+2022-04-22	Campo Grande	60	Male	B.1.1.529
+2022-04-22	Dourados	69	Male	BA.2.56
+2022-04-24	Ponta Pora	69	Female	BA.2.56
+2022-04-24	Campo Grande	64	Female	BA.1
+2022-04-25	Campo Grande	55	Female	BA.2
+2022-04-25	Campo Grande	54	Female	BA.2
+2022-04-26	Campo Grande	58	Female	BA.2
+2022-04-26	Campo Grande	97	Male	BA.2
+2022-04-26	Tres Lagoas	43	Female	BA.2
+2022-04-27	Guia Lopes da Laguna	45	Male	BA.2.56
+2022-04-27	Jardim	42	Female	BA.2
+2022-04-27	Navirai	74	Male	BA.2
+2022-04-27	Tres Lagoas	25	Female	BA.2
+2022-04-27	Dourados	83	Female	BA.2.56
+2022-04-29	Campo Grande	44	Female	BA.2
+2022-04-29	Campo Grande	53	Male	BA.2
+2022-04-29	Eldorado	81	Male	BA.2
+2022-04-29	Tres Lagoas	29	Female	BA.2
+2022-05-01	Campo Grande	61	Female	BA.2.56
+2022-04-30	Navirai	58	Female	BA.2
+2022-05-02	Campo Grande	31	Male	BA.2
+2022-05-02	Navirai	80	Male	BA.1
+2022-05-02	Navirai	64	Male	BA.1
+2022-05-03	Campo Grande	14	Female	BA.2
+2022-05-02	Tres Lagoas	45	Male	BA.2
+2022-05-02	Tres Lagoas	34	Male	BA.2.37
+2022-05-03	Tres Lagoas	15	Male	BA.2.56
+2022-05-03	Tres Lagoas	51	Female	BA.2
+2022-05-03	Tres Lagoas	49	Female	BA.2
+2022-05-03	Deodapolis	60	Male	BA.2
+2022-05-03	Campo Grande	70	Male	BA.2
+2022-05-04	Campo Grande	33	Female	B.1.1.529
+2022-05-04	Campo Grande	39	Female	BA.2
+2022-05-04	Tres Lagoas	51	Female	BA.2
+2022-05-04	Tres Lagoas	10	Male	BA.2.56
+2022-05-04	Tres Lagoas	51	Female	BA.2.56
+2022-05-04	Tres Lagoas	36	Male	BA.2
+2022-05-04	Tres Lagoas	18	Female	BA.2
+2022-05-04	Guia Lopes da Laguna	19	Female	BA.2.56
+2022-05-04	Campo Grande	42	Female	BA.2
+2022-05-04	Dourados	73	Female	BA.1.17.2
+2022-05-05	Tres Lagoas	59	Female	BA.2
+2022-05-05	Figueirao	42	Female	BA.2
+2022-05-05	Jardim	28	Female	BA.2.56
+2022-05-06	Campo Grande	54	Female	BA.2.9
+2022-05-06	Campo Grande	14	Female	BA.2
+2022-05-07	Campo Grande	45	Female	BA.2
+2022-05-06	Tres Lagoas	63	Female	BA.2.37
+2022-05-06	Tres Lagoas	54	Female	BA.2
+2022-05-09	Campo Grande	57	Male	BA.2
+2022-05-09	Campo Grande	48	Female	BA.2
+2022-05-08	Alcinopolis	70	Male	B.1.1.529
+2022-05-08	Paranaiba	88	Male	BA.2
+2022-05-09	Ponta Pora	31	Female	BA.2
+2022-05-09	Bela Vista	26	Female	BA.2.56
+2022-05-10	Campo Grande	65	Female	BA.2.56
+2022-05-09	Ponta Pora	30	Female	BA.2.56
+2022-05-09	Campo Grande	46	Male	BA.1.17
+2022-05-09	Campo Grande	49	Male	BA.2.56
+2022-05-10	Campo Grande	32	Female	BA.2
+2022-05-10	Deodapolis	34	Male	BA.2
+2022-05-10	Campo Grande	46	Male	BA.2
+2022-05-10	Ponta Pora	72	Male	BA.1
+2022-05-09	Corumba	70	Male	BA.2
+2022-05-11	Tres Lagoas	41	Male	BA.2.56
+2022-05-11	Inocencia	31	Female	BA.2
+2022-05-11	Inocencia	11	Male	BA.2
+2022-05-13	Campo Grande	51	Male	BA.2
+2022-05-12	Campo Grande	24	Female	BA.2.56
+2022-05-12	Campo Grande	40	Female	BA.2.56
+2022-05-12	Camapua	5	Male	BA.2
+2022-05-12	Tres Lagoas	16	Female	BA.2
+2022-05-11	Tres Lagoas	21	Female	BA.2
+2022-05-13	Campo Grande	44	Male	BA.2
+2022-05-12	Tres Lagoas	39	Female	BA.2
+2022-05-13	Tres Lagoas	32	Male	BA.2
+2022-05-13	Campo Grande	73	Male	BA.2
+2022-05-13	Campo Grande	77	Female	BA.2
+2022-05-13	Dourados	73	Male	BA.2.56
+2022-05-13	Dourados	60	Female	BA.2
+2022-09-05	""	42	Female	BA.5.2.1
+2022-09-14	""	29	Male	BA.5.2.1
+2022-05-12	Ponta Pora	16	Female	BA.2
+2022-01-26	""	51	unknown	BA.1.14.1
+2022-01-12	""	38	unknown	BA.1.14.1
+2022-01-18	""	32	unknown	BA.1.1
+2022-01-20	""	34	unknown	BA.1.14.1
+2022-01-17	""	39	unknown	BA.1.17.2
+2022-01-05	""	44	unknown	BA.1.15
+2022-01-06	""	36	unknown	BA.1.14
+2022-01-10	""	37	unknown	BA.1.14.1
+2022-01-06	""	21	unknown	BA.1.14.1
+2022-01-07	""	39	unknown	BA.1.14.1
+2022-02-02	""	67	unknown	BA.1.1
+2022-01-31	""	43	unknown	BA.1.14.1
+2022-09-14	Ponta Pora	29	Female	BA.5.1
+2022-09-05	Tres Lagoas	33	Male	BA.5.2.1
+2022-09-09	Aparecida do Taboado	84	Male	BA.5.2.1
+2022-09-06	Dourados	51	Female	BA.5.1
+2022-09-06	Corumba	84	Female	BA.5.2.1
+2022-08-31	Tres Lagoas	62	Female	BA.5.1.14
+2022-09-02	Tres Lagoas	59	Female	BA.5.1.14
+2022-11-07	""	45	Male	BQ.1.1.18
+2022-09-18	Rio Verde de Mato Grosso	77	Female	BA.5.2.1
+2022-11-09	Dourados	59	Female	BQ.1.1.28
+2022-09-22	Sonora	30	Male	BA.5.1
+2022-11-09	Ponta Pora	40	Male	BA.5.1
+2022-11-10	Tres Lagoas	31	Female	BQ.1.1.5
+2022-11-11	Tres Lagoas	37	Female	BQ.1.1
+2022-11-10	Coxim	9	Female	DL.1
+2022-11-07	""	41	Female	DL.1
+2022-11-01	""	32	Male	DL.1
+2022-11-11	""	52	Female	BQ.1.14
+2022-11-10	""	34	Female	BQ.1.1
+2022-11-10	""	41	Female	BE.9
+2022-11-10	""	40	Female	BA.5.2
+2022-11-11	""	23	Female	BQ.1.1
+2022-11-11	""	60	Male	BQ.1.1
+2022-12-10	""	86	Female	BE.9
+2022-12-12	""	48	Male	BE.10
+2022-12-13	""	25	Female	BQ.1.1.2
+2022-12-05	""	58	Female	BQ.1.1
+2022-03-01	Campo Grande	46	Female	BA.1.1
+2022-02-28	Campo Grande	70	Female	BA.1.14.2
+2022-02-28	Campo Grande	80	Male	BA.1.14
+2022-03-01	Campo Grande	38	Female	BA.1.1
+2022-03-01	Campo Grande	36	Male	BA.1.1
+2022-03-01	Campo Grande	46	Male	BA.1.1
+2022-03-01	Campo Grande	41	Male	BA.1.14.1
+2022-03-02	Campo Grande	81	Male	BA.1.14.1
+2022-03-03	Campo Grande	44	Female	BA.1.1
+2022-03-02	Campo Grande	27	Male	BA.1.1.1
+2022-03-03	Campo Grande	28	Female	BA.1.14.1
+2022-03-03	Campo Grande	45	Male	BA.1.14.1
+2022-03-03	Campo Grande	10	Male	BA.1.14.1
+2022-03-02	Campo Grande	69	Male	BA.1.1
+2022-03-02	Campo Grande	48	Male	BA.1.14.1
+2022-03-02	Campo Grande	56	Female	BA.1.1
+2022-03-03	Campo Grande	25	Male	BA.1.1
+2022-03-04	Campo Grande	10	Female	BA.1.1
+2022-03-04	Campo Grande	13	Male	BA.1.14
+2022-03-04	Campo Grande	57	Male	BA.1.14.1
+2022-03-04	Campo Grande	38	Female	BA.2
+2022-03-04	Campo Grande	65	Female	BA.1
+2022-03-04	Campo Grande	79	Female	BA.1.1
+2022-03-17	Campo Grande	35	Male	BA.1.14.1
+2022-03-17	Campo Grande	41	Female	BA.1
+2022-03-15	Campo Grande	16	Male	BA.1.14.1
+2022-03-16	Campo Grande	34	Male	BA.1.14
+2022-03-16	Campo Grande	47	Female	BA.1
+2022-03-16	Campo Grande	28	Male	BA.1.14.1
+2022-03-15	Campo Grande	33	Female	BA.1
+2022-03-11	Campo Grande	21	Female	BA.1.1
+2022-03-10	Campo Grande	37	Female	BA.1.1
+2022-03-13	Campo Grande	56	Female	BA.1.14.1
+2022-03-08	Campo Grande	46	Female	BA.1.17
+2022-03-08	Campo Grande	45	Female	BA.1
+2022-03-08	Campo Grande	37	Female	BA.1
+2022-01-17	Campo Grande	50	Female	BA.1
+2022-07-18	Campo Grande	29	Male	BA.5.5
+2022-07-18	Campo Grande	57	Female	BA.5.1
+2022-07-18	Campo Grande	46	Male	BA.5.2.1
+2022-07-22	Campo Grande	32	Female	BA.5.5
+2022-08-08	Campo Grande	27	Male	BA.2.56
+2022-08-08	Campo Grande	22	Female	BA.4.1.1
+2022-08-09	Campo Grande	38	Male	BA.5.1
+2022-02-02	Campo Grande	62	Female	BA.1.14.1
+2022-02-02	Campo Grande	66	Male	BA.1.14.1
+2022-02-02	Campo Grande	41	Male	BA.1.14.1
+2022-02-03	Campo Grande	25	Male	BA.1
+2022-02-03	Campo Grande	52	Female	BA.1.1
+2022-02-04	Campo Grande	24	Female	BA.1.14.1
+2022-02-08	Campo Grande	27	Male	BA.1.14.1
+2022-02-08	Campo Grande	33	Female	BA.1.14.1
+2022-02-09	Campo Grande	64	Female	BA.1
+2022-02-09	Campo Grande	45	Female	BA.1
+2022-02-09	Campo Grande	25	Female	BA.1.14.1
+2022-02-09	Campo Grande	29	Female	BA.1.1
+2022-02-09	Campo Grande	33	Female	BA.1.14.1
+2022-02-10	Campo Grande	41	Female	BA.1.14.1
+2022-02-10	Campo Grande	44	Female	BA.1.14.1
+2022-02-11	Campo Grande	44	Female	BA.1
+2022-02-11	Campo Grande	79	Male	BA.1.14.1
+2022-02-11	Campo Grande	55	Female	BA.1.14.1
+2022-02-14	Campo Grande	27	Female	BA.1.14.1
+2022-02-14	Campo Grande	3	Female	BA.1.1
+2022-02-16	Campo Grande	37	Male	BA.1.14.1
+2022-02-16	Campo Grande	50	Male	BA.1.14.1
+2022-02-16	Campo Grande	39	Male	BA.1
+2022-02-18	Campo Grande	57	Male	BA.1
+2022-02-18	Campo Grande	46	Female	BA.1.1
+2022-02-18	Campo Grande	13	Female	BA.1.14
+2022-02-23	Campo Grande	27	Female	BA.1.1
+2022-02-23	Campo Grande	40	Female	BA.1.14.1
+2022-02-23	Campo Grande	20	Female	BA.1.1
+2022-02-24	Campo Grande	40	Female	BA.1.14.1
+2022-02-24	Campo Grande	34	Male	BA.1.14.1
+2022-03-03	Campo Grande	42	Female	BA.1
+2022-03-10	Campo Grande	21	Female	BA.1.1
+2022-11-22	Campo Grande	2	Female	BQ.1.1
+2022-11-22	Campo Grande	15	Female	BE.9
+2022-11-23	Campo Grande	76	Male	BQ.1.1
+2022-11-23	Campo Grande	4	Female	BQ.1.1
+2022-11-23	Campo Grande	30	Female	BQ.1.1
+2022-11-23	Campo Grande	85	Male	BQ.1.1
+2022-11-24	Campo Grande	70	Female	XBB.1
+2022-11-24	Campo Grande	59	Female	BQ.1.1.4
+2022-11-25	Campo Grande	51	Female	BE.10
+2022-11-24	Campo Grande	88	Male	BQ.1.1.28
+2022-11-24	Campo Grande	37	Female	BQ.1.1
+2022-11-24	Campo Grande	32	Female	BQ.1.1
+2022-11-25	Campo Grande	62	Male	BE.10
+2022-11-25	Campo Grande	86	Female	BQ.1.1
+2022-11-25	Campo Grande	81	Female	BA.5.1
+2022-11-28	Campo Grande	18	Female	BQ.1.1.28
+2022-11-28	Campo Grande	36	Female	BQ.1.1.28
+2022-11-29	Campo Grande	53	Female	BE.10
+2022-11-25	Campo Grande	73	Female	BQ.1.1.31
+2022-11-29	Campo Grande	24	Male	BE.9
+2022-11-28	Campo Grande	69	Male	BQ.1.1.31
+2022-11-29	Campo Grande	36	Male	BQ.1.1.31
+2022-11-29	Campo Grande	46	Female	BE.9
+2022-11-10	Campo Grande	49	Female	BA.4.6
+2022-05-16	Campo Grande	22	Female	BA.1.17
+2022-05-19	Campo Grande	23	Male	BA.1.17
+2022-05-24	Campo Grande	38	Female	BA.1.1
+2022-06-06	Campo Grande	41	Female	XAG
+2022-06-22	Campo Grande	23	Female	BA.2
+2022-08-03	Coronel Sapucaia	6 months	Male	BA.5.2.1
+2022-08-01	Tres Lagoas	53	Male	BA.5.1
+2022-08-02	Tres Lagoas	33	Female	BA.4
+2022-08-09	Tres Lagoas	3	Female	BA.4
+2022-10-13	Ponta Pora	30	Male	BF.7
+2022-11-30	Fatima Do Sul	79	Male	BQ.1.1.28
+2022-11-24	Campo Verde	69	Female	BQ.1.1.28
+2022-11-23	Aquidauana	43	Female	BQ.1.1.4
+2022-11-21	Navirai	70	Male	BQ.1.1
+2022-11-22	Ponta Pora	40	Female	BQ.1.1.28
+2022-11-21	Coronel Sapucaia	39	Male	BQ.1.1
+2022-12-21	Campo Grande	75	Male	BQ.1.1
+2022-12-21	Campo Grande	86	Female	BQ.1.1
+2022-12-20	Paranaiba	75	Male	BQ.1.1
+2022-12-20	Corumba	96	Male	BQ.1.1
+2022-12-18	Maracaju	58	Male	BQ.1.1.28
+2022-12-10	Ivinhema	87	Male	BQ.1.1.28
+2022-12-14	Itapora	62	Male	BQ.1.1.28
+2022-12-14	Campo Grande	67	Male	BQ.1.1
+2022-12-18	Camapua	80	Male	BQ.1.1.4
+2022-12-07	Nova Andradina	11	Male	BQ.1.1
+2022-12-06	Coronel Sapucaia	13	Male	BQ.1.1.28
+2022-12-26	Ponta Pora	16	Female	BQ.1.1.28
+2022-12-29	Paranaiba	19	Female	BQ.1.1.11
+2022-12-10	Corumba	2 months	Male	XBB.1
+2022-12-29	Paranaiba	20	Female	BQ.1.1
+2022-12-19	Sao Gabriel do Oeste	20	Female	BQ.1.1.32
+2022-12-12	Aquidauana	22	Male	BQ.1.1.28
+2022-12-28	Nova Andradina	22	Female	BE.10
+2022-12-28	Paranaiba	22	Female	BQ.1.1
+2022-12-27	Guia Lopes da Laguna	24	Male	BQ.1.1.28
+2022-12-27	Ponta Pora	24	Male	XBB.1
+2022-12-08	Tres Lagoas	30	Male	BQ.1.1.18
+2022-12-07	Dourados	34	Male	BQ.1.1
+2022-12-07	Dourados	34	Female	BQ.1.1.28
+2022-12-06	Nova Andradina	34	Female	BQ.1.1
+2022-12-08	Maracaju	35	Female	BQ.1.1.28
+2022-12-29	Paranaiba	38	Female	BQ.1.1.18
+2022-12-16	Campo Grande	39	Male	BQ.1.1
+2022-12-06	Tres Lagoas	39	Female	BQ.1.1.18
+2022-12-29	Campo Grande	43	Male	BQ.1.25
+2022-12-28	Nova Andradina	43	Female	BQ.1.1
+2022-12-08	Campo Grande	44	Female	BQ.1.1.29
+2022-12-19	Campo Grande	45	Female	XBB.1.2
+2022-12-12	Ponta Pora	47	Female	BQ.1.1
+2022-12-16	Aquidauana	48	Female	BQ.1.1
+2022-12-15	Navirai	49	Female	BQ.1.8
+2022-12-19	Aquidauana	55	Male	BQ.1.1
+2022-12-04	Campo Grande	57	Male	BQ.1.1
+2022-12-06	Corumba	57	Female	BE.10
+2022-12-12	Nova Andradina	57	Female	BE.10
+2022-12-03	Ivinhema	58	Female	BQ.1.1
+2022-12-16	Tres Lagoas	63	Female	BQ.1.1
+2022-12-02	Aquidauana	64	Male	BQ.1.1.28
+2022-12-02	Coxim	67	Female	BQ.1.1
+2022-12-26	Campo Grande	69	Female	BQ.1.1.13
+2022-12-26	Campo Grande	70	Male	BE.10
+2022-12-28	Dourados	71	Male	BE.10
+2022-12-18	Corumba	74	Male	XBB
+2022-12-07	Rio Brilhante	74	Male	BQ.1.1.28
+2022-12-16	Aquidauana	75	Male	BE.9
+2022-12-26	Figueirao	75	Female	BQ.1.1.31
+2022-12-08	Figueirao	76	Female	BE.9
+2022-12-18	Sao Gabriel do Oeste	87	Female	BQ.1.1.13
+2022-12-02	LADARIO	44	Female	BA.5.1
+2022-05-16	Campo Grande	34	Male	BA.2.56
+2022-05-16	Campo Grande	75	Male	BA.2.9
+2022-05-16	Campo Grande	65	Female	BA.2.9
+2022-05-16	Campo Grande	59	Female	BA.2.56
+2022-05-16	Campo Grande	33	Female	BA.2
+2022-05-18	Campo Grande	56	Male	BA.2
+2022-05-19	Campo Grande	61	Female	BA.2
+2022-05-22	Campo Grande	54	Male	BA.1.1
+2022-05-23	Campo Grande	6	Male	BA.2
+2022-05-25	Campo Grande	80	Female	BA.2
+2022-05-25	Campo Grande	70	Female	BA.2
+2022-05-26	Campo Grande	41	Female	BA.2
+2022-05-26	Campo Grande	36	Female	BA.2.56
+2022-05-26	Campo Grande	28	Female	BA.2
+2022-05-27	Campo Grande	81	Male	BA.5.1
+2022-05-27	Campo Grande	36	Female	BA.2
+2022-05-28	Campo Grande	54	Male	BA.2
+2022-05-30	Campo Grande	33	Female	BA.2
+2022-05-30	Campo Grande	57	Female	BA.2
+2022-05-30	Campo Grande	78	Female	BA.2.56
+2022-05-30	Campo Grande	54	Female	BA.2.56
+2022-05-30	Campo Grande	90	Female	BA.2.3
+2022-05-17	Tres Lagoas	71	Male	BA.2
+2022-05-17	Tres Lagoas	35	Male	BA.2
+2022-05-17	Guia Lopes da Laguna	46	Female	BA.2.56
+2022-05-18	Ponta Pora	16	Female	BA.2
+2022-05-18	Ponta Pora	67	Female	BA.2
+2022-05-18	Ponta Pora	32	Female	BA.2
+2022-05-18	Tres Lagoas	7	Female	BA.2
+2022-05-18	Tres Lagoas	34	Male	BA.2
+2022-05-19	Corumba	58	Female	BA.2.39
+2022-05-18	Jardim	47	Female	BA.2.56
+2022-05-20	Inocencia	16	Female	BA.2.39
+2022-05-21	Costa Rica	84	Female	BA.2
+2022-05-22	Jardim	91	Female	BA.2.56
+2022-05-22	Cassilandia	54	Female	BA.2
+2022-05-23	Jardim	87	Female	BA.2.56
+2022-05-23	Navirai	79	Female	BA.2
+2022-05-23	Rio Brilhante	42	Male	BA.2
+2022-05-24	Ponta Pora	41	Male	BA.2
+2022-05-24	Ponta Pora	30	Male	BA.2
+2022-05-24	Corumba	67	Male	BA.2.56
+2022-05-23	Tres Lagoas	13	Female	BA.2
+2022-05-23	Tres Lagoas	51	Female	BA.2
+2022-05-23	Costa Rica	16	Female	BA.2
+2022-05-24	Jardim	42	Female	BA.2.56
+2022-05-25	Corumba	30	Male	BA.2.56
+2022-05-25	Inocencia	34	Male	BA.2
+2022-05-25	Ponta Pora	38	Male	BA.2.56
+2022-05-25	Ponta Pora	1	Female	BA.2.56
+2022-05-25	Navirai	44	Female	BA.2
+2022-05-25	Tres Lagoas	52	Male	BA.2
+2022-05-25	Bela vista	83	Male	BA.2.56
+2022-05-25	Maracaju	9	Male	BA.2.56
+2022-05-25	Dourados	71	Female	BA.2
+2022-05-25	Dourados	43	Male	BA.2
+2022-05-25	Tres Lagoas	58	Male	BA.2
+2022-05-26	Tres Lagoas	45	Female	BA.2
+2022-05-26	Tres Lagoas	30	Female	BA.2
+2022-05-26	Tres Lagoas	36	Female	BA.2
+2022-05-26	Corumba	46	Male	BA.2.56
+2022-05-26	Rio Brilhante	49	Female	BA.2
+2022-05-27	Ponta Pora	37	Female	BA.2
+2022-05-27	Ponta Pora	44	Male	BA.2
+2022-05-26	Cassilandia	87	Male	BA.2
+2022-05-26	Dourados	19	Male	BA.2.56
+2022-05-28	Ivinhema	81	Male	BA.2.56
+2022-05-28	Nova Andradina	63	Male	BA.2.65
+2022-05-29	Fatima do Sul	76	Female	BA.2
+2022-05-27	Rio Brilhante	24	Male	XAG
+2022-05-30	Costa Rica	21	Male	BA.2
+2022-05-30	Costa Rica	38	Female	BA.2.81
+2022-05-30	Costa Rica	37	Male	BA.2.56
+2022-05-30	Rio Brilhante	19	Female	XAG
+2022-05-31	Santa Rita do Pardo	1	Male	BA.2.56
+2022-05-30	Deodapolis	13	Male	BA.2
+2022-05-30	Deodapolis	34	Male	BA.2
+2022-06-07	Ivinhema	69	Male	BA.2.56
+2022-06-07	Sonora	56	Female	BA.2
+2022-06-08	Campo Grande	74	Male	BA.2.23
+2022-06-08	Campo Grande	61	Male	BA.5.1
+2022-06-08	Ponta Pora	72	Female	BA.2.56
+2022-06-08	Costa Rica	16	Female	BA.2.65
+2022-06-08	Chapadao do Sul	3	Female	BA.2
+2022-06-08	Juti	33	Male	BA.2.56
+2022-06-15	Amambai	60	Female	BA.5.2.1
+2022-06-15	Fatima do Sul	86	Female	BA.2.56
+2022-06-16	Aquidauana	83	Female	BA.5.1
+2022-06-15	Coxim	60	Female	BA.2
+2022-06-17	Ponta Pora	34	Female	BA.2
+2022-06-27	Sidrolandia	79	Male	BA.2.56
+2022-07-08	Paraiso Das Aguas	61	Male	BA.2
+2022-07-14	Anastacio	59	Male	BA.5.1
+2022-07-14	Corumba	64	Female	BA.5.2.1
+2022-07-14	Fatima do Sul	81	Male	BA.2.56
+2022-07-14	Coronel Sapucaia	18	Male	BA.2.56
+2022-07-14	Costa Rica	16	Male	BA.5.2.1
+2022-07-14	Rio Brilhante	28	Male	BA.5.1
+2022-07-14	Ponta Pora	38	Male	BA.5.2.1
+2022-07-14	Tres Lagoas	27	Female	BA.4
+2022-07-14	Tres Lagoas	39	Female	BA.4
+2022-07-16	Campo Grande	30	Female	BA.5.2.1
+2022-07-14	Dourados	84	Female	BA.5.1
+2022-07-16	Corumba	7	Female	BA.4
+2022-07-18	Ponta Pora	5	Female	BA.5.1
+2022-07-18	Jardim	5	Male	BA.2.56
+2022-07-19	Campo Grande	56	Female	BA.2
+2022-07-18	Nova Alvorada do Sul	72	Male	BA.2.56
+2022-07-21	Paraiso Das Aguas	51	Male	BA.5.1
+2022-07-23	Navirai	97	Female	BA.5.1
+2022-07-24	Paranaiba	42	Male	BA.4
+2022-07-25	Campo Grande	36	Male	BA.5.2.1
+2022-07-25	Campo Grande	75	Male	BA.2.56
+2022-07-25	Corumba	46	Female	BA.4
+2022-08-02	Ponta Pora	28	Female	BA.2.56
+2022-08-02	Sao Gabriel do Oeste	81	Female	BA.5.2.1
+2022-08-02	Coronel Sapucaia	21	Female	BA.5.2.1
+2022-08-02	Coronel Sapucaia	84	Male	BA.5.3
+2022-08-02	Paranaiba	49	Male	BA.5.2.1
+2022-08-03	Paranaiba	88	Female	BA.5.1
+2022-08-03	Tres Lagoas	26	Female	BA.5.1
+2022-08-04	Ivinhema	69	Male	BA.5.2.1
+2022-08-04	Maracaju	45	Female	BA.5.5
+2022-08-04	Navirai	75	Male	BA.5.5
+2022-08-05	Campo Grande	77	Female	BA.2.56
+2022-08-06	Dourados	65	Female	BE.1
+2022-08-07	Corumba	73	Female	BA.5.1
+2022-08-08	Aquidauana	35	Female	BA.4
+2022-08-10	Dourados	85	Male	BF.4
+2022-08-10	Dourados	54	Female	BA.5.2.1
+2022-08-11	Amambai	55	Male	BA.5.2
+2022-08-11	Alcinopolis	80	Male	BA.5.1
+2022-08-12	Jardim	53	Female	BA.5.2.1
+2022-08-14	Ponta Pora	80	Male	BA.5.2.1
+2022-08-14	Corumba	17	Female	BA.5.2.1
+2022-08-14	Bela vista	49	Female	BA.5.1
+2022-08-14	Bela vista	80	Male	BA.5.2.1
+2022-08-15	Angelica	79	Female	BA.5.2.1
+2022-08-15	Inocencia	53	Female	BA.5.1
+2022-08-15	Sao Gabriel do Oeste	76	Male	BA.5.2.1
+2022-08-13	Tres Lagoas	86	Female	BA.5.2.1
+2022-08-16	Maracaju	28	Female	BA.2
+2022-08-14	Navirai	74	Male	BA.5.2.1
+2022-08-15	Ribas do Rio Pardo	64	Female	BA.5.2.1
+2022-08-16	Campo Grande	34	Female	BA.5.2.1
+2022-08-16	Tres Lagoas	11	Male	BA.5.2.1
+2022-08-16	Tres Lagoas	76	Female	BA.5.1
+2022-08-15	Rio Brilhante	65	Male	BA.5.2.1
+2022-08-16	Ponta Pora	32	Male	BA.2.56
+2022-08-16	Sao Gabriel do Oeste	68	Female	BA.5.2.1
+2022-08-17	Costa Rica	51	Male	BA.5.1.21
+2022-08-17	Fatima do Sul	97	Female	BA.5.2.1
+2022-08-16	Dourados	70	Female	BA.5.1
+2022-08-17	Tres Lagoas	35	Female	BA.5.2.1
+2022-08-17	Tres Lagoas	47	Female	BA.5.2.1
+2022-08-17	Tres Lagoas	18	Female	BA.5.2.1
+2022-08-17	Tres Lagoas	35	Female	BA.5.2.1
+2022-08-17	Corumba	83	Female	BA.5.1
+2022-08-18	Campo Grande	84	Male	BA.4.4
+2022-08-18	Campo Grande	89	Female	BA.5.2.1
+2022-08-19	Maracaju	41	Female	BE.1
+2022-08-18	Navirai	60	Female	BE.1
+2022-08-18	Rio Verde De Mato Grosso	77	Male	BA.5.1
+2022-08-18	Tres Lagoas	31	Female	BA.5.2.1
+2022-08-17	Coronel Sapucaia	25	Male	BE.1
+2022-08-18	Coronel Sapucaia	39	Female	BA.5.1
+2022-08-19	Corumba	34	Female	BA.5.2.1
+2022-08-22	Antonio Joao	78	Male	BA.5.1.10
+2022-08-22	Corumba	39	Female	BA.2
+2022-08-22	Coronel Sapucaia	19	Female	BA.5.2.1
+2022-08-23	Tres Lagoas	46	Female	BA.5.2.1
+2022-08-23	Costa Rica	57	Female	BA.5.2.1
+2022-08-23	Campo Grande	1	Male	BA.5.2.1
+2022-08-23	Campo Grande	17	Male	BA.5.2.1
+2022-08-23	Corumba	49	Female	BA.5.2.1
+2022-08-24	Coxim	80	Female	BA.5.2.1
+2022-08-23	Inocencia	67	Female	BA.5.2.1
+2022-08-19	Laguna Carapa	49	Female	BA.5.2.1
+2022-08-23	Navirai	1	Male	BA.5.1
+2022-08-23	Rio Verde De Mato Grosso	38	Male	BA.5.1

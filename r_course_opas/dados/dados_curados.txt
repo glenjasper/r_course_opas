@@ -1,0 +1,953 @@
+code	date	municipality	age	sex	lineage
+	2022-01-05		20	Masculino	BA.1.1
+	2022-01-05		23	Masculino	BA.1.1
+	2022-01-06		63	Feminino	BA.1.20
+	2022-01-06		35	Feminino	BA.1.1
+	2022-01-05		36	Masculino	BA.1.1.14
+	2022-01-07		21	Masculino	BA.1
+	2022-01-07		31	Feminino	BA.1.14
+	2022-01-04		41	Masculino	AY.43
+	2022-01-07		24	Feminino	BA.1.14.1
+	2022-01-07		20	Feminino	BA.1
+5004403	2022-01-31	Inocência	64	Masculino	BA.1.15
+5004403	2022-01-31	Inocência	19	Feminino	BA.1.1
+5004403	2022-01-31	Inocência	52	Masculino	BA.1.1
+5004403	2022-01-31	Inocência	22	Masculino	BA.1.1
+5004403	2022-01-31	Inocência	51	Masculino	BA.1
+5004403	2022-01-31	Inocência	72	Feminino	BA.1
+5007208	2022-01-31	Rio Brilhante	40	Masculino	BA.1.14.1
+5007208	2022-01-31	Rio Brilhante	49	Masculino	BA.1.17
+5007208	2022-01-31	Rio Brilhante	53	Masculino	BA.1.17
+5007208	2022-01-31	Rio Brilhante	20	Masculino	BA.1.14.1
+5007208	2022-01-31	Rio Brilhante	22	Masculino	BA.1.1
+5007208	2022-01-31	Rio Brilhante	40	Feminino	BA.1
+5007208	2022-01-31	Rio Brilhante	33	Masculino	BA.1.1
+5007208	2022-01-31	Rio Brilhante	46	Masculino	BA.1.1
+5007208	2022-01-31	Rio Brilhante	41	Feminino	BA.1.14.1
+5007208	2022-01-31	Rio Brilhante	59	Feminino	BA.1.1
+5007208	2022-01-31	Rio Brilhante	32	Feminino	BA.1.17
+5007208	2022-01-31	Rio Brilhante	33	Masculino	BA.1.1
+5007208	2022-01-31	Rio Brilhante	42	Masculino	BA.1
+5008404	2022-02-02	Vicentina	40	Feminino	BA.1.1
+5002704	2022-02-01	Campo Grande	58	Masculino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	48	Feminino	BA.1.14.2
+5002704	2022-02-01	Campo Grande	23	Feminino	BA.1.1
+5002704	2022-02-01	Campo Grande	30	Feminino	BA.1
+5002704	2022-02-01	Campo Grande	34	Masculino	BA.1
+5002704	2022-02-01	Campo Grande	21	Feminino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	51	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	35	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	64	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	24	Feminino	BA.1.1
+5002704	2022-01-31	Campo Grande	45	Feminino	BA.1.1
+5002704	2022-01-31	Campo Grande	74	Masculino	BA.1.15
+5002704	2022-01-31	Campo Grande	51	Feminino	BA.1.1
+5002704	2022-01-30	Campo Grande	34	Feminino	BA.1.15
+5002704	2022-01-31	Campo Grande	38	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	34	Masculino	BA.1.15
+5002704	2022-01-30	Campo Grande	31	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	64	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	60	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	75	Masculino	BA.1.14.2
+5002704	2022-01-31	Campo Grande	4	Masculino	BA.1.14
+5002704	2022-01-31	Campo Grande	25	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	26	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	46	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	56	Masculino	BA.1.14.1
+5002704	2022-01-31	Campo Grande	68	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	65	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	40	Feminino	BA.1.14.2
+5002704	2022-01-31	Campo Grande	50	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	43	Feminino	BA.1.17
+5002704	2022-01-31	Campo Grande	79	Masculino	BA.1.1
+5002704	2022-01-31	Campo Grande	54	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	37	Feminino	BA.1.14.1
+5002704	2022-01-31	Campo Grande	39	Feminino	BA.1.17
+5002704	2022-01-31	Campo Grande	54	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	32	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	37	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	40	Masculino	BA.1.1
+5002704	2022-01-31	Campo Grande	39	Masculino	BA.1
+5002704	2022-01-31	Campo Grande	49	Feminino	BA.1.1
+5002704	2022-01-31	Campo Grande	66	Feminino	BA.1
+5008305	2022-01-31	Três Lagoas	68	Feminino	BA.1
+5008305	2022-01-31	Três Lagoas	18	Masculino	BA.1
+5008305	2022-01-31	Três Lagoas	36	Feminino	BA.1
+5008305	2022-01-31	Três Lagoas	60	Feminino	BA.1.14
+5008305	2022-01-31	Três Lagoas	9	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	19	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	64	Masculino	BA.1.1
+5008305	2022-01-31	Três Lagoas	19	Feminino	BA.1.17
+5008305	2022-01-31	Três Lagoas	63	Feminino	BA.1
+5008305	2022-01-31	Três Lagoas	48	Masculino	BA.1
+5008305	2022-01-31	Três Lagoas	31	Masculino	BA.1
+5008305	2022-01-31	Três Lagoas	77	Masculino	BA.1.1
+5008305	2022-01-31	Três Lagoas	13	Feminino	BA.1.14
+5008305	2022-01-31	Três Lagoas	60	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	2	Masculino	BA.1.1
+5008305	2022-01-31	Três Lagoas	53	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	54	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	21	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	2	Masculino	BA.1.1.14
+5008305	2022-01-31	Três Lagoas	39	Feminino	BA.1
+5008305	2022-01-31	Três Lagoas	58	Feminino	BA.1.1
+5008305	2022-01-31	Três Lagoas	40	Feminino	BA.1.15
+5008305	2022-01-31	Três Lagoas	38	Masculino	BA.1.1
+5008305	2022-01-31	Três Lagoas	44	Feminino	BA.1.15
+5008305	2022-01-31	Três Lagoas	22	Masculino	BA.1.1
+5008305	2022-01-31	Três Lagoas	21	Masculino	BA.1.14
+5003256	2022-01-31	Costa Rica	54	Masculino	BA.1
+5003256	2022-01-31	Costa Rica	41	Masculino	BA.1.15
+5003256	2022-01-31	Costa Rica	41	Masculino	BA.1.14.1
+5003256	2022-01-31	Costa Rica	25	Feminino	BA.1
+5007802	2022-01-31	Selvíria	20	Masculino	BA.1.14.1
+	2022-01-31		46	Feminino	BA.1.14.1
+	2022-01-31		35	Masculino	BA.1.14.1
+5002001	2022-01-03	Batayporã	56	Feminino	BA.1.17
+5002704	2022-01-03	Campo Grande	56	Feminino	BA.1.15
+5002902	2022-01-03	Cassilândia	57	Masculino	BA.1.15
+5002902	2022-01-03	Cassilândia	55	Feminino	BA.1.15
+5005707	2022-01-03	Naviraí	47	Feminino	BA.1.20
+5007208	2022-01-03	Rio Brilhante	29	Feminino	AY.43
+5007208	2022-01-03	Rio Brilhante	34	Masculino	AY.43
+5008305	2022-01-03	Três Lagoas	19	Masculino	BA.1
+5002704	2022-01-04	Campo Grande	51	Feminino	AY.34.1
+5002704	2022-01-04	Campo Grande	26	Masculino	BA.1.14.2
+5003157	2022-01-04	Coronel Sapucaia	62	Feminino	AY.43
+5005707	2022-01-04	Naviraí	33	Feminino	BA.1.20
+5001102	2022-01-05	Aquidauana	48	Masculino	BA.1
+5002209	2022-01-05	Bonito	61	Masculino	BA.1.14.1
+5005004	2022-01-05	Jardim	19	Masculino	BA.1.15
+5006309	2022-01-05	Paranaíba	21	Masculino	BA.1.14.1
+5002209	2022-01-06	Bonito	22	Feminino	BA.1.14
+5003256	2022-01-06	Costa Rica	29	Masculino	BA.1.14.1
+5004007	2022-01-06	Glória De Dourados	38	Feminino	BA.1.15
+5004304	2022-01-06	Iguatemi	19	Masculino	BA.1.20
+5006002	2022-01-06	Nova Alvorada Do Sul	29	Masculino	BA.1.1
+5006309	2022-01-06	Paranaíba	33	Masculino	BA.1.14.2
+5007505	2022-01-06	Rochedo	40	Feminino	BA.1.14.1
+5007505	2022-01-06	Rochedo	29	Masculino	BA.1.14.1
+5007554	2022-01-06	Santa Rita Do Pardo	28	Feminino	BA.1
+5008305	2022-01-06	Três Lagoas	69	Feminino	BA.1
+5001102	2022-01-07	Aquidauana	74	Masculino	BA.1
+5003256	2022-01-07	Costa Rica	7	Masculino	BA.1
+5003256	2022-01-07	Costa Rica	3	Feminino	BA.1
+5005202	2022-01-07	Ladário	32	Feminino	BA.1.14.1
+5008305	2022-01-07	Três Lagoas	22	Masculino	BA.1.1
+5002704	2022-01-08	Campo Grande	77	Masculino	BA.1
+5005707	2022-01-08	Naviraí	3	Masculino	BA.1.14
+5001243	2022-01-09	Aral Moreira	52	Feminino	AY.101
+5002704	2022-01-09	Campo Grande	26	Feminino	BA.1.14.1
+5002704	2022-01-09	Campo Grande	78	Feminino	BA.1.14.1
+5000807	2022-01-10	Anaurilândia	77	Feminino	BA.1.17
+5002704	2022-01-10	Campo Grande	27	Masculino	BA.1
+5002704	2022-01-10	Campo Grande	29	Feminino	BA.1
+5002704	2022-01-10	Campo Grande	21	Masculino	BA.1.14.1
+5002704	2022-01-10	Campo Grande	9	Masculino	BA.1.14.1
+5002704	2022-01-12	Campo Grande	9	Masculino	BA.1
+5002902	2022-01-12	Cassilândia	81	Masculino	BA.1.14.1
+5003108	2022-01-12	Corguinho	51	Feminino	BA.1.14
+5003702	2022-01-12	Dourados	19	Feminino	BA.1
+5003454	2022-01-13	Deodápolis	44	Masculino	BA.1
+5005004	2022-01-13	Jardim	32	Masculino	BA.1.14.1
+5005806	2022-01-13	Nioaque	2	Masculino	BA.1
+5006200	2022-01-13	Nova Andradina	38	Masculino	BA.1.17
+5002704	2022-01-15	Campo Grande	82	Feminino	BA.1.14.1
+5002704	2022-01-15	Campo Grande	15	Feminino	BA.1.1
+5003702	2022-01-16	Dourados	89	Masculino	BA.1
+5002704	2022-01-17	Campo Grande	12	Masculino	BA.1
+5002704	2022-01-17	Campo Grande	11	Feminino	BA.1
+5002704	2022-01-17	Campo Grande	9	Masculino	BA.1.1
+5002704	2022-01-17	Campo Grande	82	Masculino	BA.1.1.1
+5002704	2022-01-17	Campo Grande	47	Masculino	BA.1.1.1
+5002704	2022-01-17	Campo Grande	2	Feminino	BA.1.15
+5002704	2022-01-18	Campo Grande	15	Feminino	BA.1.14.1
+5002704	2022-01-18	Campo Grande	11	Feminino	BA.1.17
+5002704	2022-01-18	Campo Grande	21	Feminino	BA.1.14.1
+5003306	2022-01-18	Coxim	37	Masculino	BA.1.14
+5005707	2022-01-18	Naviraí	2	Feminino	BA.1.15
+5006275	2022-01-18	Paraíso Das Águas	8	Masculino	BA.1.14.1
+5008305	2022-01-19	Três Lagoas	10	Masculino	BA.1.1
+5002209	2022-01-20	Bonito	9	Feminino	BA.1.14.1
+5002704	2022-01-04	Campo Grande	37	Feminino	BA.1.14.2
+5000856	2022-01-06	Angélica	27	Masculino	BA.1
+5005251	2022-01-06	Laguna Carapã	41	Feminino	BA.1.15
+5005251	2022-01-06	Laguna Carapã	23	Feminino	BA.1.14.2
+5002704	2022-01-06	Campo Grande	52	Feminino	BA.1.1
+5002704	2022-01-15	Campo Grande	9	Masculino	BA.1.1
+5002704	2022-01-15	Campo Grande	9	Feminino	BA.1.1
+5002704	2022-01-16	Campo Grande	7	Feminino	BA.1.1
+5004601	2022-01-05	Itaquiraí	37	Feminino	BA.1
+	2022-02-08		57	Feminino	BA.1.14
+	2022-02-02		26	Feminino	BA.1.14.1
+	2022-02-08		11	Feminino	BA.1.1
+	2022-02-02		30	Masculino	BA.1.15
+	2022-02-07		46	Masculino	BA.1.1
+	2022-02-14		38	Feminino	BA.1.17
+	2022-02-10		47	Masculino	BA.1.1
+	2022-02-10		53	Feminino	BA.1
+	2022-03-04		65	Feminino	BA.1.15
+	2022-03-15		28	Masculino	BA.1.1.1
+	2022-03-10		12	Masculino	BA.1.14.1
+	2022-03-10		15	Feminino	BA.2
+	2022-03-03		45	Masculino	BA.2
+	2022-04-04		53	Feminino	BA.2
+	2022-04-13		59	Feminino	BA.1
+	2022-05-13		12	Feminino	BA.2
+	2022-05-12		65	Masculino	BA.2
+	2022-05-13		52	Masculino	BA.2
+	2022-05-11		36	Masculino	BA.2
+	2022-05-05		16	Feminino	BA.2
+	2022-06-10		37	Masculino	BA.5.2.1
+	2022-06-14		43	Feminino	BA.5.2.1
+	2022-06-08		40	Feminino	BA.2.12.1
+	2022-06-03		40	Feminino	BA.2
+	2022-07-04		27	Feminino	BA.4.1
+	2022-07-04		55	Masculino	BA.5.2.1
+	2022-07-04		47	Masculino	BA.5.2.1
+	2022-07-07		72	Feminino	BA.5.2.1
+	2022-07-07		29	Masculino	BA.5.2.1
+	2022-07-02		46	Feminino	BA.5.2.1
+	2022-07-07		28	Feminino	BA.5.2.1
+	2022-08-09		34	Feminino	BA.5.2.1
+	2022-08-10		86	Feminino	BA.4
+	2022-08-02		38	Feminino	BA.4
+	2022-08-08		37	Feminino	BA.5.1
+	2022-08-04		77	Feminino	BA.5.2.1
+	2022-08-04		65	Feminino	BA.5.1
+	2022-08-04		14	Masculino	BA.5.1
+	2022-08-02		70	Masculino	BA.5.2.1
+	2022-08-08		50	Feminino	BA.5.2.1
+	2022-08-11		55	Feminino	BA.5.1
+	2022-08-02		50	Feminino	BA.5.1
+	2022-08-12		70	Feminino	BA.5.2.1
+	2022-08-06		73	Feminino	BA.5.2
+5002704	2022-01-24	Campo Grande	42	Feminino	BA.1.1
+5002704	2022-01-24	Campo Grande	59	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	28	Masculino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	19	Feminino	BA.1.14.1
+5002704	2022-03-01	Campo Grande	49	Masculino	BA.1.14.1
+5002704	2022-03-02	Campo Grande	62	Masculino	BA.1
+5002704	2022-03-04	Campo Grande	47	Masculino	BA.1.14.1
+5002704	2022-03-04	Campo Grande	34	Feminino	BA.1.17
+5002704	2022-03-07	Campo Grande	63	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	46	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	49	Masculino	BA.1.14
+5002704	2022-01-24	Campo Grande	44	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	20	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	53	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	14	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	47	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	55	Masculino	BA.1.1
+5002704	2022-01-24	Campo Grande	40	Feminino	BA.1.1
+5002704	2022-01-24	Campo Grande	27	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	53	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	24	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	42	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	42	Feminino	BA.1.14
+5002704	2022-01-24	Campo Grande	30	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	51	Masculino	BA.1.14.2
+5002704	2022-01-24	Campo Grande	36	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	47	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	58	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	37	Feminino	BA.1.15
+5002704	2022-01-24	Campo Grande	55	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	28	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	49	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	29	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	28	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	36	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	51	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	30	Masculino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	67	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	27	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	67	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	26	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	32	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	23	Masculino	BA.1.14
+5002704	2022-01-24	Campo Grande	70	Masculino	BA.1.1.1
+5002704	2022-01-24	Campo Grande	31	Masculino	BA.1
+5002704	2022-01-24	Campo Grande	51	Feminino	BA.1.14.1
+5002704	2022-01-24	Campo Grande	59	Feminino	BA.1.1
+5002704	2022-01-24	Campo Grande	49	Feminino	BA.1.17.2
+5002704	2022-01-24	Campo Grande	38	Feminino	BA.1
+5002704	2022-01-24	Campo Grande	28	Feminino	BA.1
+5002704	2022-02-10	Campo Grande	36	Masculino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	18	Feminino	BA.1
+5002704	2022-02-10	Campo Grande	42	Masculino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	31	Feminino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	48	Feminino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	1	Masculino	BA.1.20
+5002704	2022-02-10	Campo Grande	40	Feminino	BA.1
+5002704	2022-02-10	Campo Grande	23	Feminino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	53	Masculino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	53	Feminino	BA.1.14.2
+5002704	2022-02-09	Campo Grande	40	Feminino	BA.1.14
+5002704	2022-02-26	Campo Grande	96	Feminino	BA.1.14.1
+5002704	2022-02-27	Campo Grande	7	Feminino	BA.1.1
+5002704	2022-01-31	Campo Grande	20	Masculino	BA.1.1
+5002704	2022-01-31	Campo Grande	40	Feminino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	55	Feminino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	64	Feminino	BA.1
+5002704	2022-01-31	Campo Grande	44	Feminino	BA.1.14.2
+5002704	2022-02-01	Campo Grande	35	Masculino	BA.1.14.2
+5002704	2022-02-01	Campo Grande	21	Feminino	BA.1
+5002704	2022-02-01	Campo Grande	49	Feminino	BA.1.1
+5002704	2022-02-01	Campo Grande	46	Masculino	BA.1.14.1
+5002704	2022-02-01	Campo Grande	23	Feminino	BA.1.1
+5002704	2022-02-01	Campo Grande	23	Feminino	BA.1.1
+5002704	2022-02-01	Campo Grande	21	Masculino	BA.1.15
+5002704	2022-02-01	Campo Grande	57	Feminino	BA.1.15
+5002704	2022-02-01	Campo Grande	42	Masculino	BA.1.1
+5002704	2022-02-01	Campo Grande	63	Masculino	BA.1.1
+5002704	2022-02-01	Campo Grande	69	Masculino	BA.1.14.2
+5002704	2022-02-01	Campo Grande	40	Feminino	BA.1.1
+5002704	2022-02-18	Campo Grande	5	Masculino	BA.1.14
+5002704	2022-02-11	Campo Grande	15	Feminino	BA.1.14.1
+5002704	2022-02-11	Campo Grande	27	Feminino	BA.1
+5002704	2022-02-12	Campo Grande	46	Masculino	BA.1
+5002704	2022-02-11	Campo Grande	69	Feminino	BA.1.1
+5002704	2022-02-16	Campo Grande	24	Feminino	BA.1.14.1
+5002704	2022-02-16	Campo Grande	49	Masculino	BA.1.14.1
+5002704	2022-02-16	Campo Grande	7	Feminino	BA.1
+5002704	2022-03-01	Campo Grande	30	Masculino	BA.1
+5002704	2022-01-29	Campo Grande	90	Feminino	BA.1.1
+5002704	2022-01-24	Campo Grande	72	Feminino	AY.43
+5002704	2022-01-24	Campo Grande	77	Feminino	BA.1.14.1
+5007901	2022-02-13	Sidrolândia	64	Feminino	BA.1.17
+5005681	2022-01-29	Mundo Novo	88	Masculino	BA.1.15
+5003207	2022-01-29	Corumbá	25	Feminino	BA.1
+5005004	2022-01-27	Jardim	36	Feminino	BA.1.14.1
+5006606	2022-01-26	Ponta Porã	49	Masculino	BA.1
+5006606	2022-01-26	Ponta Porã	29	Feminino	BA.1.14
+5005707	2022-01-27	Naviraí	63	Masculino	BA.1.20
+5000609	2022-01-25	Amambai	50	Feminino	BA.1
+5007109	2022-02-01	Ribas Do Rio Pardo	24	Feminino	BA.1
+5006606	2022-02-28	Ponta Porã	80	Masculino	BA.1.1
+5003256	2022-02-28	Costa Rica	14	Masculino	BA.1.14.1
+5004700	2022-02-28	Ivinhema	87	Masculino	BA.1.1
+5002704	2022-02-28	Campo Grande	80	Feminino	BA.1.1
+5003702	2022-02-26	Dourados	35	Masculino	BA.1.14.1
+5002100	2022-03-01	Bela Vista	12	Masculino	BA.1
+5004403	2022-03-02	Inocência	73	Feminino	BA.1.1
+5004502	2022-03-02	Itaporã	55	Feminino	B.1.1.529
+5007208	2022-03-02	Rio Brilhante	51	Masculino	B.1.1.529
+5005004	2022-03-03	Jardim	61	Masculino	B.1.1.529
+5003801	2022-03-02	Fátima Do Sul	86	Masculino	BA.1
+5002407	2022-03-02	Caarapó	1	Masculino	BA.1.15
+5006606	2022-03-02	Ponta Porã	76	Masculino	BA.1.1
+5008305	2022-03-02	Três Lagoas	53	Feminino	B.1.1.529
+5003702	2022-03-03	Dourados	84	Masculino	BA.1.1
+5000856	2022-03-02	Angélica	88	Feminino	BA.1.17
+5002902	2022-03-02	Cassilândia	3	Feminino	BA.1.1
+5003256	2022-03-03	Costa Rica	17	Feminino	BA.1.15
+5007307	2022-03-03	Rio Negro	30	Feminino	BA.1
+5006002	2022-03-03	Nova Alvorada Do Sul	65	Masculino	BA.1.1
+5006002	2022-03-04	Nova Alvorada Do Sul	14	Masculino	BA.1.17
+5006606	2022-03-04	Ponta Porã	101	Masculino	BA.2
+5008305	2022-03-04	Três Lagoas	44	Masculino	BA.1.1
+5000609	2022-03-05	Amambai	64	Feminino	BA.1
+5002704	2022-03-05	Campo Grande	78	Masculino	BA.1.15
+5002704	2022-03-07	Campo Grande	56	Feminino	BA.1
+5000708	2022-03-06	Anastácio	69	Feminino	B.1.1.529
+5007695	2022-03-05	São Gabriel Do Oeste	55	Masculino	B.1.1.529
+5007695	2022-03-05	São Gabriel Do Oeste	55	Masculino	BA.1.14.1
+5007307	2022-03-06	Rio Negro	54	Masculino	BA.1.1
+5001243	2022-03-07	Aral Moreira	37	Feminino	BA.1.1
+5006002	2022-03-07	Nova Alvorada Do Sul	26	Feminino	BA.1.17
+5006002	2022-03-07	Nova Alvorada Do Sul	70	Feminino	BA.1.17.2
+5006309	2022-03-07	Paranaíba	23	Feminino	BA.1.1.1
+5003702	2022-03-07	Dourados	83	Masculino	B.1.1.529
+5002704	2022-03-08	Campo Grande	56	Masculino	BA.1
+5000609	2022-03-08	Amambai	21	Masculino	B.1.1.529
+5001102	2022-03-08	Aquidauana	79	Masculino	BA.1.15
+5002704	2022-03-10	Campo Grande	73	Masculino	BA.1.17
+5002704	2022-03-10	Campo Grande	57	Feminino	BA.1.17
+5005608	2022-03-09	Miranda	54	Feminino	BA.1.1
+5000609	2022-03-10	Amambai	84	Feminino	BA.1.20
+5001508	2022-03-10	Bandeirantes	29	Feminino	BA.1
+5002902	2022-03-10	Cassilândia	66	Masculino	BA.1.14.1
+5007208	2022-03-11	Rio Brilhante	28	Masculino	BA.1
+5007208	2022-03-11	Rio Brilhante	72	Masculino	BA.1.15
+5008305	2022-03-11	Três Lagoas	26	Masculino	BA.1.1
+5002704	2022-03-12	Campo Grande	40	Masculino	BA.1.14.1
+5002704	2022-03-14	Campo Grande	23	Feminino	BA.1.17.2
+5007307	2022-03-13	Rio Negro	73	Masculino	BA.1.1
+5007695	2022-03-11	São Gabriel Do Oeste	87	Masculino	B.1.1.529
+5002803	2022-03-12	Caracol	86	Feminino	BA.1.15
+5008305	2022-03-16	Três Lagoas	86	Masculino	BA.1.1
+5007208	2022-03-16	Rio Brilhante	88	Feminino	BA.1
+5003702	2022-03-16	Dourados	92	Feminino	BA.1.17
+5003306	2022-03-17	Coxim	82	Masculino	BA.1
+5002704	2022-03-17	Campo Grande	22	Masculino	BA.1.1
+5002704	2022-03-18	Campo Grande	35	Feminino	BA.2
+5008305	2022-03-17	Três Lagoas	23	Masculino	BA.1.1.14
+5008305	2022-03-17	Três Lagoas	3	Feminino	BA.1
+5008305	2022-03-17	Três Lagoas	21	Feminino	BA.1.15
+5002951	2022-03-17	Chapadão Do Sul	34	Feminino	BA.1
+5006002	2022-03-17	Nova Alvorada Do Sul	69	Masculino	BA.1.14.1
+5007307	2022-03-17	Rio Negro	43	Masculino	BA.1
+5002704	2022-03-18	Campo Grande	9	Masculino	BA.1.17
+5005707	2022-03-21	Naviraí	39	Feminino	BA.2
+5008305	2022-03-18	Três Lagoas	46	Feminino	BA.1
+5007208	2022-03-18	Rio Brilhante	29	Masculino	BA.1.1
+5007208	2022-03-18	Rio Brilhante	9	Feminino	BA.1
+5002704	2022-03-19	Campo Grande	31	Feminino	BA.1.17
+5002704	2022-03-21	Campo Grande	51	Feminino	BA.2
+5002704	2022-03-18	Campo Grande	36	Feminino	BA.1
+5007208	2022-03-21	Rio Brilhante	29	Feminino	BA.1.15
+5003702	2022-03-21	Dourados	75	Masculino	BA.2
+5002704	2022-03-21	Campo Grande	43	Masculino	BA.1
+5002704	2022-03-22	Campo Grande	13	Feminino	BA.1.14.1
+5008305	2022-03-21	Três Lagoas	52	Masculino	BA.1.1
+5004106	2022-03-21	Guia Lopes Da Laguna	1	Feminino	BA.1.14.1
+5004106	2022-03-21	Guia Lopes Da Laguna	23	Feminino	BA.1.14.1
+5002704	2022-03-21	Campo Grande	22	Masculino	B.1.1.529
+5002704	2022-03-21	Campo Grande	28	Masculino	BA.2
+5002704	2022-03-23	Campo Grande	37	Feminino	BA.1.14.1
+5008305	2022-03-22	Três Lagoas	38	Feminino	BA.2
+5008305	2022-03-22	Três Lagoas	21	Feminino	BA.1.1
+5005004	2022-03-22	Jardim	48	Feminino	BA.1
+5007208	2022-03-22	Rio Brilhante	21	Feminino	BA.1
+5002407	2022-03-24	Caarapó	38	Feminino	BA.1.1
+5002704	2022-03-23	Campo Grande	65	Masculino	BA.1.14.1
+5002605	2022-03-24	Camapuã	60	Feminino	BA.1.1
+5006309	2022-03-24	Paranaíba	67	Masculino	BA.1.1
+5008305	2022-03-25	Três Lagoas	45	Feminino	BA.1
+5008305	2022-03-25	Três Lagoas	41	Feminino	BA.1
+5008305	2022-03-25	Três Lagoas	38	Feminino	BA.1.1
+5000708	2022-03-27	Anastácio	69	Feminino	BA.1
+5002704	2022-03-28	Campo Grande	37	Masculino	BA.1.1
+5007208	2022-03-28	Rio Brilhante	46	Feminino	BA.1
+5001102	2022-03-28	Aquidauana	69	Feminino	BA.1
+5008305	2022-03-28	Três Lagoas	49	Feminino	BA.1
+5008305	2022-03-28	Três Lagoas	9	Feminino	BA.1
+5008305	2022-03-29	Três Lagoas	41	Feminino	BA.2
+5008305	2022-03-30	Três Lagoas	22	Masculino	BA.2
+5002704	2022-03-29	Campo Grande	78	Feminino	BA.1.1
+5006606	2022-03-30	Ponta Porã	22	Feminino	BA.1
+5006606	2022-04-01	Ponta Porã	39	Feminino	BA.1
+5005707	2022-03-30	Naviraí	69	Feminino	BA.1.1
+5008305	2022-04-01	Três Lagoas	62	Feminino	BA.1.15
+5002951	2022-04-03	Chapadão Do Sul	91	Feminino	BA.1.1
+5002704	2022-04-04	Campo Grande	33	Feminino	BA.2
+5008305	2022-04-04	Três Lagoas	36	Feminino	BA.1.15
+5002704	2022-04-05	Campo Grande	46	Feminino	BA.2
+5002704	2022-04-05	Campo Grande	29	Feminino	BA.2
+5008305	2022-04-05	Três Lagoas	56	Masculino	BA.1.1
+5008305	2022-04-05	Três Lagoas	56	Feminino	BA.1.1
+5008305	2022-04-05	Três Lagoas	43	Feminino	BA.2
+5008305	2022-04-06	Três Lagoas	29	Masculino	BA.2
+5005004	2022-04-06	Jardim	27	Feminino	BA.1.1
+5002704	2022-04-06	Campo Grande	55	Feminino	BA.2
+5008305	2022-04-06	Três Lagoas	47	Masculino	BA.1.1
+5006358	2022-04-06	Paranhos	79	Masculino	BA.1.1
+5002704	2022-04-07	Campo Grande	73	Masculino	BA.1.15
+5003702	2022-04-07	Dourados	78	Feminino	BA.1
+5008305	2022-04-08	Três Lagoas	53	Masculino	BA.2
+5001003	2022-04-10	Aparecida Do Taboado	88	Masculino	BA.2
+5002100	2022-04-12	Bela Vista	95	Feminino	BA.2.56
+5006606	2022-04-13	Ponta Porã	30	Feminino	BA.2
+5003702	2022-04-15	Dourados	85	Feminino	BA.2
+5003801	2022-03-03	Fátima Do Sul	81	Feminino	BA.1
+5005004	2022-03-02	Jardim	83	Feminino	BA.1.14.1
+5007208	2022-03-03	Rio Brilhante	22	Masculino	BA.1.14.1
+5008305	2022-03-03	Três Lagoas	26	Feminino	BA.1
+5007208	2022-03-03	Rio Brilhante	59	Masculino	BA.1
+5003256	2022-03-02	Costa Rica	28	Masculino	BA.1.14.1
+5003256	2022-03-02	Costa Rica	36	Feminino	BA.1
+5004502	2022-03-02	Itaporã	44	Feminino	B.1.1.529
+5002704	2022-03-02	Campo Grande	85	Feminino	BA.1
+5002704	2022-03-01	Campo Grande	32	Masculino	BA.1.1
+5008305	2022-03-02	Três Lagoas	38	Masculino	BA.1.1
+5002704	2022-03-01	Campo Grande	87	Feminino	BA.1.14.1
+5005707	2022-03-01	Naviraí	38	Feminino	BA.1.14.1
+5002159	2022-03-02	Bodoquena	47	Masculino	BA.1.14.1
+5004502	2022-03-03	Itaporã	59	Feminino	BA.1.1
+5008305	2022-03-02	Três Lagoas	54	Feminino	BA.1
+5008305	2022-03-02	Três Lagoas	48	Feminino	BA.1
+5008305	2022-03-02	Três Lagoas	58	Masculino	BA.1
+5003256	2022-02-28	Costa Rica	28	Feminino	BA.1.14
+5003256	2022-02-28	Costa Rica	13	Masculino	BA.1.14.1
+5003256	2022-02-28	Costa Rica	28	Feminino	BA.1.14
+5003256	2022-02-28	Costa Rica	51	Masculino	BA.1.14.1
+5008305	2022-02-28	Três Lagoas	39	Feminino	BA.1.1
+5007208	2022-03-02	Rio Brilhante	63	Feminino	BA.1.15
+5002704	2022-04-17	Campo Grande	64	Feminino	BA.2
+5005707	2022-04-18	Naviraí	72	Masculino	BA.1.1.14
+5002704	2022-04-19	Campo Grande	80	Feminino	B.1.1.529
+5002704	2022-04-20	Campo Grande	62	Masculino	BA.1.1
+5005707	2022-04-21	Naviraí	44	Feminino	BA.1.17
+5002704	2022-04-22	Campo Grande	60	Masculino	B.1.1.529
+5003702	2022-04-22	Dourados	69	Masculino	BA.2.56
+5006606	2022-04-24	Ponta Porã	69	Feminino	BA.2.56
+5002704	2022-04-24	Campo Grande	64	Feminino	BA.1
+5002704	2022-04-25	Campo Grande	55	Feminino	BA.2
+5002704	2022-04-25	Campo Grande	54	Feminino	BA.2
+5002704	2022-04-26	Campo Grande	58	Feminino	BA.2
+5002704	2022-04-26	Campo Grande	97	Masculino	BA.2
+5008305	2022-04-26	Três Lagoas	43	Feminino	BA.2
+5004106	2022-04-27	Guia Lopes Da Laguna	45	Masculino	BA.2.56
+5005004	2022-04-27	Jardim	42	Feminino	BA.2
+5005707	2022-04-27	Naviraí	74	Masculino	BA.2
+5008305	2022-04-27	Três Lagoas	25	Feminino	BA.2
+5003702	2022-04-27	Dourados	83	Feminino	BA.2.56
+5002704	2022-04-29	Campo Grande	44	Feminino	BA.2
+5002704	2022-04-29	Campo Grande	53	Masculino	BA.2
+5003751	2022-04-29	Eldorado	81	Masculino	BA.2
+5008305	2022-04-29	Três Lagoas	29	Feminino	BA.2
+5002704	2022-05-01	Campo Grande	61	Feminino	BA.2.56
+5005707	2022-04-30	Naviraí	58	Feminino	BA.2
+5002704	2022-05-02	Campo Grande	31	Masculino	BA.2
+5005707	2022-05-02	Naviraí	80	Masculino	BA.1
+5005707	2022-05-02	Naviraí	64	Masculino	BA.1
+5002704	2022-05-03	Campo Grande	14	Feminino	BA.2
+5008305	2022-05-02	Três Lagoas	45	Masculino	BA.2
+5008305	2022-05-02	Três Lagoas	34	Masculino	BA.2.37
+5008305	2022-05-03	Três Lagoas	15	Masculino	BA.2.56
+5008305	2022-05-03	Três Lagoas	51	Feminino	BA.2
+5008305	2022-05-03	Três Lagoas	49	Feminino	BA.2
+5003454	2022-05-03	Deodápolis	60	Masculino	BA.2
+5002704	2022-05-03	Campo Grande	70	Masculino	BA.2
+5002704	2022-05-04	Campo Grande	33	Feminino	B.1.1.529
+5002704	2022-05-04	Campo Grande	39	Feminino	BA.2
+5008305	2022-05-04	Três Lagoas	51	Feminino	BA.2
+5008305	2022-05-04	Três Lagoas	10	Masculino	BA.2.56
+5008305	2022-05-04	Três Lagoas	51	Feminino	BA.2.56
+5008305	2022-05-04	Três Lagoas	36	Masculino	BA.2
+5008305	2022-05-04	Três Lagoas	18	Feminino	BA.2
+5004106	2022-05-04	Guia Lopes Da Laguna	19	Feminino	BA.2.56
+5002704	2022-05-04	Campo Grande	42	Feminino	BA.2
+5003702	2022-05-04	Dourados	73	Feminino	BA.1.17.2
+5008305	2022-05-05	Três Lagoas	59	Feminino	BA.2
+5003900	2022-05-05	Figueirão	42	Feminino	BA.2
+5005004	2022-05-05	Jardim	28	Feminino	BA.2.56
+5002704	2022-05-06	Campo Grande	54	Feminino	BA.2.9
+5002704	2022-05-06	Campo Grande	14	Feminino	BA.2
+5002704	2022-05-07	Campo Grande	45	Feminino	BA.2
+5008305	2022-05-06	Três Lagoas	63	Feminino	BA.2.37
+5008305	2022-05-06	Três Lagoas	54	Feminino	BA.2
+5002704	2022-05-09	Campo Grande	57	Masculino	BA.2
+5002704	2022-05-09	Campo Grande	48	Feminino	BA.2
+5000252	2022-05-08	Alcinópolis	70	Masculino	B.1.1.529
+5006309	2022-05-08	Paranaíba	88	Masculino	BA.2
+5006606	2022-05-09	Ponta Porã	31	Feminino	BA.2
+5002100	2022-05-09	Bela Vista	26	Feminino	BA.2.56
+5002704	2022-05-10	Campo Grande	65	Feminino	BA.2.56
+5006606	2022-05-09	Ponta Porã	30	Feminino	BA.2.56
+5002704	2022-05-09	Campo Grande	46	Masculino	BA.1.17
+5002704	2022-05-09	Campo Grande	49	Masculino	BA.2.56
+5002704	2022-05-10	Campo Grande	32	Feminino	BA.2
+5003454	2022-05-10	Deodápolis	34	Masculino	BA.2
+5002704	2022-05-10	Campo Grande	46	Masculino	BA.2
+5006606	2022-05-10	Ponta Porã	72	Masculino	BA.1
+5003207	2022-05-09	Corumbá	70	Masculino	BA.2
+5008305	2022-05-11	Três Lagoas	41	Masculino	BA.2.56
+5004403	2022-05-11	Inocência	31	Feminino	BA.2
+5004403	2022-05-11	Inocência	11	Masculino	BA.2
+5002704	2022-05-13	Campo Grande	51	Masculino	BA.2
+5002704	2022-05-12	Campo Grande	24	Feminino	BA.2.56
+5002704	2022-05-12	Campo Grande	40	Feminino	BA.2.56
+5002605	2022-05-12	Camapuã	5	Masculino	BA.2
+5008305	2022-05-12	Três Lagoas	16	Feminino	BA.2
+5008305	2022-05-11	Três Lagoas	21	Feminino	BA.2
+5002704	2022-05-13	Campo Grande	44	Masculino	BA.2
+5008305	2022-05-12	Três Lagoas	39	Feminino	BA.2
+5008305	2022-05-13	Três Lagoas	32	Masculino	BA.2
+5002704	2022-05-13	Campo Grande	73	Masculino	BA.2
+5002704	2022-05-13	Campo Grande	77	Feminino	BA.2
+5003702	2022-05-13	Dourados	73	Masculino	BA.2.56
+5003702	2022-05-13	Dourados	60	Feminino	BA.2
+	2022-09-05		42	Feminino	BA.5.2.1
+	2022-09-14		29	Masculino	BA.5.2.1
+5006606	2022-05-12	Ponta Porã	16	Feminino	BA.2
+	2022-01-26		51	Não Informado	BA.1.14.1
+	2022-01-12		38	Não Informado	BA.1.14.1
+	2022-01-18		32	Não Informado	BA.1.1
+	2022-01-20		34	Não Informado	BA.1.14.1
+	2022-01-17		39	Não Informado	BA.1.17.2
+	2022-01-05		44	Não Informado	BA.1.15
+	2022-01-06		36	Não Informado	BA.1.14
+	2022-01-10		37	Não Informado	BA.1.14.1
+	2022-01-06		21	Não Informado	BA.1.14.1
+	2022-01-07		39	Não Informado	BA.1.14.1
+	2022-02-02		67	Não Informado	BA.1.1
+	2022-01-31		43	Não Informado	BA.1.14.1
+5006606	2022-09-14	Ponta Porã	29	Feminino	BA.5.1
+5008305	2022-09-05	Três Lagoas	33	Masculino	BA.5.2.1
+5001003	2022-09-09	Aparecida Do Taboado	84	Masculino	BA.5.2.1
+5003702	2022-09-06	Dourados	51	Feminino	BA.5.1
+5003207	2022-09-06	Corumbá	84	Feminino	BA.5.2.1
+5008305	2022-08-31	Três Lagoas	62	Feminino	BA.5.1.14
+5008305	2022-09-02	Três Lagoas	59	Feminino	BA.5.1.14
+	2022-11-07		45	Masculino	BQ.1.1.18
+5007406	2022-09-18	Rio Verde De Mato Grosso	77	Feminino	BA.5.2.1
+5003702	2022-11-09	Dourados	59	Feminino	BQ.1.1.28
+5007935	2022-09-22	Sonora	30	Masculino	BA.5.1
+5006606	2022-11-09	Ponta Porã	40	Masculino	BA.5.1
+5008305	2022-11-10	Três Lagoas	31	Feminino	BQ.1.1.5
+5008305	2022-11-11	Três Lagoas	37	Feminino	BQ.1.1
+5003306	2022-11-10	Coxim	9	Feminino	DL.1
+	2022-11-07		41	Feminino	DL.1
+	2022-11-01		32	Masculino	DL.1
+	2022-11-11		52	Feminino	BQ.1.14
+	2022-11-10		34	Feminino	BQ.1.1
+	2022-11-10		41	Feminino	BE.9
+	2022-11-10		40	Feminino	BA.5.2
+	2022-11-11		23	Feminino	BQ.1.1
+	2022-11-11		60	Masculino	BQ.1.1
+	2022-12-10		86	Feminino	BE.9
+	2022-12-12		48	Masculino	BE.10
+	2022-12-13		25	Feminino	BQ.1.1.2
+	2022-12-05		58	Feminino	BQ.1.1
+5002704	2022-03-01	Campo Grande	46	Feminino	BA.1.1
+5002704	2022-02-28	Campo Grande	70	Feminino	BA.1.14.2
+5002704	2022-02-28	Campo Grande	80	Masculino	BA.1.14
+5002704	2022-03-01	Campo Grande	38	Feminino	BA.1.1
+5002704	2022-03-01	Campo Grande	36	Masculino	BA.1.1
+5002704	2022-03-01	Campo Grande	46	Masculino	BA.1.1
+5002704	2022-03-01	Campo Grande	41	Masculino	BA.1.14.1
+5002704	2022-03-02	Campo Grande	81	Masculino	BA.1.14.1
+5002704	2022-03-03	Campo Grande	44	Feminino	BA.1.1
+5002704	2022-03-02	Campo Grande	27	Masculino	BA.1.1.1
+5002704	2022-03-03	Campo Grande	28	Feminino	BA.1.14.1
+5002704	2022-03-03	Campo Grande	45	Masculino	BA.1.14.1
+5002704	2022-03-03	Campo Grande	10	Masculino	BA.1.14.1
+5002704	2022-03-02	Campo Grande	69	Masculino	BA.1.1
+5002704	2022-03-02	Campo Grande	48	Masculino	BA.1.14.1
+5002704	2022-03-02	Campo Grande	56	Feminino	BA.1.1
+5002704	2022-03-03	Campo Grande	25	Masculino	BA.1.1
+5002704	2022-03-04	Campo Grande	10	Feminino	BA.1.1
+5002704	2022-03-04	Campo Grande	13	Masculino	BA.1.14
+5002704	2022-03-04	Campo Grande	57	Masculino	BA.1.14.1
+5002704	2022-03-04	Campo Grande	38	Feminino	BA.2
+5002704	2022-03-04	Campo Grande	65	Feminino	BA.1
+5002704	2022-03-04	Campo Grande	79	Feminino	BA.1.1
+5002704	2022-03-17	Campo Grande	35	Masculino	BA.1.14.1
+5002704	2022-03-17	Campo Grande	41	Feminino	BA.1
+5002704	2022-03-15	Campo Grande	16	Masculino	BA.1.14.1
+5002704	2022-03-16	Campo Grande	34	Masculino	BA.1.14
+5002704	2022-03-16	Campo Grande	47	Feminino	BA.1
+5002704	2022-03-16	Campo Grande	28	Masculino	BA.1.14.1
+5002704	2022-03-15	Campo Grande	33	Feminino	BA.1
+5002704	2022-03-11	Campo Grande	21	Feminino	BA.1.1
+5002704	2022-03-10	Campo Grande	37	Feminino	BA.1.1
+5002704	2022-03-13	Campo Grande	56	Feminino	BA.1.14.1
+5002704	2022-03-08	Campo Grande	46	Feminino	BA.1.17
+5002704	2022-03-08	Campo Grande	45	Feminino	BA.1
+5002704	2022-03-08	Campo Grande	37	Feminino	BA.1
+5002704	2022-01-17	Campo Grande	50	Feminino	BA.1
+5002704	2022-07-18	Campo Grande	29	Masculino	BA.5.5
+5002704	2022-07-18	Campo Grande	57	Feminino	BA.5.1
+5002704	2022-07-18	Campo Grande	46	Masculino	BA.5.2.1
+5002704	2022-07-22	Campo Grande	32	Feminino	BA.5.5
+5002704	2022-08-08	Campo Grande	27	Masculino	BA.2.56
+5002704	2022-08-08	Campo Grande	22	Feminino	BA.4.1.1
+5002704	2022-08-09	Campo Grande	38	Masculino	BA.5.1
+5002704	2022-02-02	Campo Grande	62	Feminino	BA.1.14.1
+5002704	2022-02-02	Campo Grande	66	Masculino	BA.1.14.1
+5002704	2022-02-02	Campo Grande	41	Masculino	BA.1.14.1
+5002704	2022-02-03	Campo Grande	25	Masculino	BA.1
+5002704	2022-02-03	Campo Grande	52	Feminino	BA.1.1
+5002704	2022-02-04	Campo Grande	24	Feminino	BA.1.14.1
+5002704	2022-02-08	Campo Grande	27	Masculino	BA.1.14.1
+5002704	2022-02-08	Campo Grande	33	Feminino	BA.1.14.1
+5002704	2022-02-09	Campo Grande	64	Feminino	BA.1
+5002704	2022-02-09	Campo Grande	45	Feminino	BA.1
+5002704	2022-02-09	Campo Grande	25	Feminino	BA.1.14.1
+5002704	2022-02-09	Campo Grande	29	Feminino	BA.1.1
+5002704	2022-02-09	Campo Grande	33	Feminino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	41	Feminino	BA.1.14.1
+5002704	2022-02-10	Campo Grande	44	Feminino	BA.1.14.1
+5002704	2022-02-11	Campo Grande	44	Feminino	BA.1
+5002704	2022-02-11	Campo Grande	79	Masculino	BA.1.14.1
+5002704	2022-02-11	Campo Grande	55	Feminino	BA.1.14.1
+5002704	2022-02-14	Campo Grande	27	Feminino	BA.1.14.1
+5002704	2022-02-14	Campo Grande	3	Feminino	BA.1.1
+5002704	2022-02-16	Campo Grande	37	Masculino	BA.1.14.1
+5002704	2022-02-16	Campo Grande	50	Masculino	BA.1.14.1
+5002704	2022-02-16	Campo Grande	39	Masculino	BA.1
+5002704	2022-02-18	Campo Grande	57	Masculino	BA.1
+5002704	2022-02-18	Campo Grande	46	Feminino	BA.1.1
+5002704	2022-02-18	Campo Grande	13	Feminino	BA.1.14
+5002704	2022-02-23	Campo Grande	27	Feminino	BA.1.1
+5002704	2022-02-23	Campo Grande	40	Feminino	BA.1.14.1
+5002704	2022-02-23	Campo Grande	20	Feminino	BA.1.1
+5002704	2022-02-24	Campo Grande	40	Feminino	BA.1.14.1
+5002704	2022-02-24	Campo Grande	34	Masculino	BA.1.14.1
+5002704	2022-03-03	Campo Grande	42	Feminino	BA.1
+5002704	2022-03-10	Campo Grande	21	Feminino	BA.1.1
+5002704	2022-11-22	Campo Grande	2	Feminino	BQ.1.1
+5002704	2022-11-22	Campo Grande	15	Feminino	BE.9
+5002704	2022-11-23	Campo Grande	76	Masculino	BQ.1.1
+5002704	2022-11-23	Campo Grande	4	Feminino	BQ.1.1
+5002704	2022-11-23	Campo Grande	30	Feminino	BQ.1.1
+5002704	2022-11-23	Campo Grande	85	Masculino	BQ.1.1
+5002704	2022-11-24	Campo Grande	70	Feminino	XBB.1
+5002704	2022-11-24	Campo Grande	59	Feminino	BQ.1.1.4
+5002704	2022-11-25	Campo Grande	51	Feminino	BE.10
+5002704	2022-11-24	Campo Grande	88	Masculino	BQ.1.1.28
+5002704	2022-11-24	Campo Grande	37	Feminino	BQ.1.1
+5002704	2022-11-24	Campo Grande	32	Feminino	BQ.1.1
+5002704	2022-11-25	Campo Grande	62	Masculino	BE.10
+5002704	2022-11-25	Campo Grande	86	Feminino	BQ.1.1
+5002704	2022-11-25	Campo Grande	81	Feminino	BA.5.1
+5002704	2022-11-28	Campo Grande	18	Feminino	BQ.1.1.28
+5002704	2022-11-28	Campo Grande	36	Feminino	BQ.1.1.28
+5002704	2022-11-29	Campo Grande	53	Feminino	BE.10
+5002704	2022-11-25	Campo Grande	73	Feminino	BQ.1.1.31
+5002704	2022-11-29	Campo Grande	24	Masculino	BE.9
+5002704	2022-11-28	Campo Grande	69	Masculino	BQ.1.1.31
+5002704	2022-11-29	Campo Grande	36	Masculino	BQ.1.1.31
+5002704	2022-11-29	Campo Grande	46	Feminino	BE.9
+5002704	2022-11-10	Campo Grande	49	Feminino	BA.4.6
+5002704	2022-05-16	Campo Grande	22	Feminino	BA.1.17
+5002704	2022-05-19	Campo Grande	23	Masculino	BA.1.17
+5002704	2022-05-24	Campo Grande	38	Feminino	BA.1.1
+5002704	2022-06-06	Campo Grande	41	Feminino	XAG
+5002704	2022-06-22	Campo Grande	23	Feminino	BA.2
+5003157	2022-08-03	Coronel Sapucaia	0.5	Masculino	BA.5.2.1
+5008305	2022-08-01	Três Lagoas	53	Masculino	BA.5.1
+5008305	2022-08-02	Três Lagoas	33	Feminino	BA.4
+5008305	2022-08-09	Três Lagoas	3	Feminino	BA.4
+5006606	2022-10-13	Ponta Porã	30	Masculino	BF.7
+5003801	2022-11-30	Fátima Do Sul	79	Masculino	BQ.1.1.28
+	2022-11-24		69	Feminino	BQ.1.1.28
+5001102	2022-11-23	Aquidauana	43	Feminino	BQ.1.1.4
+5005707	2022-11-21	Naviraí	70	Masculino	BQ.1.1
+5006606	2022-11-22	Ponta Porã	40	Feminino	BQ.1.1.28
+5003157	2022-11-21	Coronel Sapucaia	39	Masculino	BQ.1.1
+5002704	2022-12-21	Campo Grande	75	Masculino	BQ.1.1
+5002704	2022-12-21	Campo Grande	86	Feminino	BQ.1.1
+5006309	2022-12-20	Paranaíba	75	Masculino	BQ.1.1
+5003207	2022-12-20	Corumbá	96	Masculino	BQ.1.1
+5005400	2022-12-18	Maracaju	58	Masculino	BQ.1.1.28
+5004700	2022-12-10	Ivinhema	87	Masculino	BQ.1.1.28
+5004502	2022-12-14	Itaporã	62	Masculino	BQ.1.1.28
+5002704	2022-12-14	Campo Grande	67	Masculino	BQ.1.1
+5002605	2022-12-18	Camapuã	80	Masculino	BQ.1.1.4
+5006200	2022-12-07	Nova Andradina	11	Masculino	BQ.1.1
+5003157	2022-12-06	Coronel Sapucaia	13	Masculino	BQ.1.1.28
+5006606	2022-12-26	Ponta Porã	16	Feminino	BQ.1.1.28
+5006309	2022-12-29	Paranaíba	19	Feminino	BQ.1.1.11
+5003207	2022-12-10	Corumbá	0.166666666666667	Masculino	XBB.1
+5006309	2022-12-29	Paranaíba	20	Feminino	BQ.1.1
+5007695	2022-12-19	São Gabriel Do Oeste	20	Feminino	BQ.1.1.32
+5001102	2022-12-12	Aquidauana	22	Masculino	BQ.1.1.28
+5006200	2022-12-28	Nova Andradina	22	Feminino	BE.10
+5006309	2022-12-28	Paranaíba	22	Feminino	BQ.1.1
+5004106	2022-12-27	Guia Lopes Da Laguna	24	Masculino	BQ.1.1.28
+5006606	2022-12-27	Ponta Porã	24	Masculino	XBB.1
+5008305	2022-12-08	Três Lagoas	30	Masculino	BQ.1.1.18
+5003702	2022-12-07	Dourados	34	Masculino	BQ.1.1
+5003702	2022-12-07	Dourados	34	Feminino	BQ.1.1.28
+5006200	2022-12-06	Nova Andradina	34	Feminino	BQ.1.1
+5005400	2022-12-08	Maracaju	35	Feminino	BQ.1.1.28
+5006309	2022-12-29	Paranaíba	38	Feminino	BQ.1.1.18
+5002704	2022-12-16	Campo Grande	39	Masculino	BQ.1.1
+5008305	2022-12-06	Três Lagoas	39	Feminino	BQ.1.1.18
+5002704	2022-12-29	Campo Grande	43	Masculino	BQ.1.25
+5006200	2022-12-28	Nova Andradina	43	Feminino	BQ.1.1
+5002704	2022-12-08	Campo Grande	44	Feminino	BQ.1.1.29
+5002704	2022-12-19	Campo Grande	45	Feminino	XBB.1.2
+5006606	2022-12-12	Ponta Porã	47	Feminino	BQ.1.1
+5001102	2022-12-16	Aquidauana	48	Feminino	BQ.1.1
+5005707	2022-12-15	Naviraí	49	Feminino	BQ.1.8
+5001102	2022-12-19	Aquidauana	55	Masculino	BQ.1.1
+5002704	2022-12-04	Campo Grande	57	Masculino	BQ.1.1
+5003207	2022-12-06	Corumbá	57	Feminino	BE.10
+5006200	2022-12-12	Nova Andradina	57	Feminino	BE.10
+5004700	2022-12-03	Ivinhema	58	Feminino	BQ.1.1
+5008305	2022-12-16	Três Lagoas	63	Feminino	BQ.1.1
+5001102	2022-12-02	Aquidauana	64	Masculino	BQ.1.1.28
+5003306	2022-12-02	Coxim	67	Feminino	BQ.1.1
+5002704	2022-12-26	Campo Grande	69	Feminino	BQ.1.1.13
+5002704	2022-12-26	Campo Grande	70	Masculino	BE.10
+5003702	2022-12-28	Dourados	71	Masculino	BE.10
+5003207	2022-12-18	Corumbá	74	Masculino	XBB
+5007208	2022-12-07	Rio Brilhante	74	Masculino	BQ.1.1.28
+5001102	2022-12-16	Aquidauana	75	Masculino	BE.9
+5003900	2022-12-26	Figueirão	75	Feminino	BQ.1.1.31
+5003900	2022-12-08	Figueirão	76	Feminino	BE.9
+5007695	2022-12-18	São Gabriel Do Oeste	87	Feminino	BQ.1.1.13
+5005202	2022-12-02	Ladário	44	Feminino	BA.5.1
+5002704	2022-05-16	Campo Grande	34	Masculino	BA.2.56
+5002704	2022-05-16	Campo Grande	75	Masculino	BA.2.9
+5002704	2022-05-16	Campo Grande	65	Feminino	BA.2.9
+5002704	2022-05-16	Campo Grande	59	Feminino	BA.2.56
+5002704	2022-05-16	Campo Grande	33	Feminino	BA.2
+5002704	2022-05-18	Campo Grande	56	Masculino	BA.2
+5002704	2022-05-19	Campo Grande	61	Feminino	BA.2
+5002704	2022-05-22	Campo Grande	54	Masculino	BA.1.1
+5002704	2022-05-23	Campo Grande	6	Masculino	BA.2
+5002704	2022-05-25	Campo Grande	80	Feminino	BA.2
+5002704	2022-05-25	Campo Grande	70	Feminino	BA.2
+5002704	2022-05-26	Campo Grande	41	Feminino	BA.2
+5002704	2022-05-26	Campo Grande	36	Feminino	BA.2.56
+5002704	2022-05-26	Campo Grande	28	Feminino	BA.2
+5002704	2022-05-27	Campo Grande	81	Masculino	BA.5.1
+5002704	2022-05-27	Campo Grande	36	Feminino	BA.2
+5002704	2022-05-28	Campo Grande	54	Masculino	BA.2
+5002704	2022-05-30	Campo Grande	33	Feminino	BA.2
+5002704	2022-05-30	Campo Grande	57	Feminino	BA.2
+5002704	2022-05-30	Campo Grande	78	Feminino	BA.2.56
+5002704	2022-05-30	Campo Grande	54	Feminino	BA.2.56
+5002704	2022-05-30	Campo Grande	90	Feminino	BA.2.3
+5008305	2022-05-17	Três Lagoas	71	Masculino	BA.2
+5008305	2022-05-17	Três Lagoas	35	Masculino	BA.2
+5004106	2022-05-17	Guia Lopes Da Laguna	46	Feminino	BA.2.56
+5006606	2022-05-18	Ponta Porã	16	Feminino	BA.2
+5006606	2022-05-18	Ponta Porã	67	Feminino	BA.2
+5006606	2022-05-18	Ponta Porã	32	Feminino	BA.2
+5008305	2022-05-18	Três Lagoas	7	Feminino	BA.2
+5008305	2022-05-18	Três Lagoas	34	Masculino	BA.2
+5003207	2022-05-19	Corumbá	58	Feminino	BA.2.39
+5005004	2022-05-18	Jardim	47	Feminino	BA.2.56
+5004403	2022-05-20	Inocência	16	Feminino	BA.2.39
+5003256	2022-05-21	Costa Rica	84	Feminino	BA.2
+5005004	2022-05-22	Jardim	91	Feminino	BA.2.56
+5002902	2022-05-22	Cassilândia	54	Feminino	BA.2
+5005004	2022-05-23	Jardim	87	Feminino	BA.2.56
+5005707	2022-05-23	Naviraí	79	Feminino	BA.2
+5007208	2022-05-23	Rio Brilhante	42	Masculino	BA.2
+5006606	2022-05-24	Ponta Porã	41	Masculino	BA.2
+5006606	2022-05-24	Ponta Porã	30	Masculino	BA.2
+5003207	2022-05-24	Corumbá	67	Masculino	BA.2.56
+5008305	2022-05-23	Três Lagoas	13	Feminino	BA.2
+5008305	2022-05-23	Três Lagoas	51	Feminino	BA.2
+5003256	2022-05-23	Costa Rica	16	Feminino	BA.2
+5005004	2022-05-24	Jardim	42	Feminino	BA.2.56
+5003207	2022-05-25	Corumbá	30	Masculino	BA.2.56
+5004403	2022-05-25	Inocência	34	Masculino	BA.2
+5006606	2022-05-25	Ponta Porã	38	Masculino	BA.2.56
+5006606	2022-05-25	Ponta Porã	1	Feminino	BA.2.56
+5005707	2022-05-25	Naviraí	44	Feminino	BA.2
+5008305	2022-05-25	Três Lagoas	52	Masculino	BA.2
+5002100	2022-05-25	Bela Vista	83	Masculino	BA.2.56
+5005400	2022-05-25	Maracaju	9	Masculino	BA.2.56
+5003702	2022-05-25	Dourados	71	Feminino	BA.2
+5003702	2022-05-25	Dourados	43	Masculino	BA.2
+5008305	2022-05-25	Três Lagoas	58	Masculino	BA.2
+5008305	2022-05-26	Três Lagoas	45	Feminino	BA.2
+5008305	2022-05-26	Três Lagoas	30	Feminino	BA.2
+5008305	2022-05-26	Três Lagoas	36	Feminino	BA.2
+5003207	2022-05-26	Corumbá	46	Masculino	BA.2.56
+5007208	2022-05-26	Rio Brilhante	49	Feminino	BA.2
+5006606	2022-05-27	Ponta Porã	37	Feminino	BA.2
+5006606	2022-05-27	Ponta Porã	44	Masculino	BA.2
+5002902	2022-05-26	Cassilândia	87	Masculino	BA.2
+5003702	2022-05-26	Dourados	19	Masculino	BA.2.56
+5004700	2022-05-28	Ivinhema	81	Masculino	BA.2.56
+5006200	2022-05-28	Nova Andradina	63	Masculino	BA.2.65
+5003801	2022-05-29	Fátima Do Sul	76	Feminino	BA.2
+5007208	2022-05-27	Rio Brilhante	24	Masculino	XAG
+5003256	2022-05-30	Costa Rica	21	Masculino	BA.2
+5003256	2022-05-30	Costa Rica	38	Feminino	BA.2.81
+5003256	2022-05-30	Costa Rica	37	Masculino	BA.2.56
+5007208	2022-05-30	Rio Brilhante	19	Feminino	XAG
+5007554	2022-05-31	Santa Rita Do Pardo	1	Masculino	BA.2.56
+5003454	2022-05-30	Deodápolis	13	Masculino	BA.2
+5003454	2022-05-30	Deodápolis	34	Masculino	BA.2
+5004700	2022-06-07	Ivinhema	69	Masculino	BA.2.56
+5007935	2022-06-07	Sonora	56	Feminino	BA.2
+5002704	2022-06-08	Campo Grande	74	Masculino	BA.2.23
+5002704	2022-06-08	Campo Grande	61	Masculino	BA.5.1
+5006606	2022-06-08	Ponta Porã	72	Feminino	BA.2.56
+5003256	2022-06-08	Costa Rica	16	Feminino	BA.2.65
+5002951	2022-06-08	Chapadão Do Sul	3	Feminino	BA.2
+5005152	2022-06-08	Juti	33	Masculino	BA.2.56
+5000609	2022-06-15	Amambai	60	Feminino	BA.5.2.1
+5003801	2022-06-15	Fátima Do Sul	86	Feminino	BA.2.56
+5001102	2022-06-16	Aquidauana	83	Feminino	BA.5.1
+5003306	2022-06-15	Coxim	60	Feminino	BA.2
+5006606	2022-06-17	Ponta Porã	34	Feminino	BA.2
+5007901	2022-06-27	Sidrolândia	79	Masculino	BA.2.56
+5006275	2022-07-08	Paraíso Das Águas	61	Masculino	BA.2
+5000708	2022-07-14	Anastácio	59	Masculino	BA.5.1
+5003207	2022-07-14	Corumbá	64	Feminino	BA.5.2.1
+5003801	2022-07-14	Fátima Do Sul	81	Masculino	BA.2.56
+5003157	2022-07-14	Coronel Sapucaia	18	Masculino	BA.2.56
+5003256	2022-07-14	Costa Rica	16	Masculino	BA.5.2.1
+5007208	2022-07-14	Rio Brilhante	28	Masculino	BA.5.1
+5006606	2022-07-14	Ponta Porã	38	Masculino	BA.5.2.1
+5008305	2022-07-14	Três Lagoas	27	Feminino	BA.4
+5008305	2022-07-14	Três Lagoas	39	Feminino	BA.4
+5002704	2022-07-16	Campo Grande	30	Feminino	BA.5.2.1
+5003702	2022-07-14	Dourados	84	Feminino	BA.5.1
+5003207	2022-07-16	Corumbá	7	Feminino	BA.4
+5006606	2022-07-18	Ponta Porã	5	Feminino	BA.5.1
+5005004	2022-07-18	Jardim	5	Masculino	BA.2.56
+5002704	2022-07-19	Campo Grande	56	Feminino	BA.2
+5006002	2022-07-18	Nova Alvorada Do Sul	72	Masculino	BA.2.56
+5006275	2022-07-21	Paraíso Das Águas	51	Masculino	BA.5.1
+5005707	2022-07-23	Naviraí	97	Feminino	BA.5.1
+5006309	2022-07-24	Paranaíba	42	Masculino	BA.4
+5002704	2022-07-25	Campo Grande	36	Masculino	BA.5.2.1
+5002704	2022-07-25	Campo Grande	75	Masculino	BA.2.56
+5003207	2022-07-25	Corumbá	46	Feminino	BA.4
+5006606	2022-08-02	Ponta Porã	28	Feminino	BA.2.56
+5007695	2022-08-02	São Gabriel Do Oeste	81	Feminino	BA.5.2.1
+5003157	2022-08-02	Coronel Sapucaia	21	Feminino	BA.5.2.1
+5003157	2022-08-02	Coronel Sapucaia	84	Masculino	BA.5.3
+5006309	2022-08-02	Paranaíba	49	Masculino	BA.5.2.1
+5006309	2022-08-03	Paranaíba	88	Feminino	BA.5.1
+5008305	2022-08-03	Três Lagoas	26	Feminino	BA.5.1
+5004700	2022-08-04	Ivinhema	69	Masculino	BA.5.2.1
+5005400	2022-08-04	Maracaju	45	Feminino	BA.5.5
+5005707	2022-08-04	Naviraí	75	Masculino	BA.5.5
+5002704	2022-08-05	Campo Grande	77	Feminino	BA.2.56
+5003702	2022-08-06	Dourados	65	Feminino	BE.1
+5003207	2022-08-07	Corumbá	73	Feminino	BA.5.1
+5001102	2022-08-08	Aquidauana	35	Feminino	BA.4
+5003702	2022-08-10	Dourados	85	Masculino	BF.4
+5003702	2022-08-10	Dourados	54	Feminino	BA.5.2.1
+5000609	2022-08-11	Amambai	55	Masculino	BA.5.2
+5000252	2022-08-11	Alcinópolis	80	Masculino	BA.5.1
+5005004	2022-08-12	Jardim	53	Feminino	BA.5.2.1
+5006606	2022-08-14	Ponta Porã	80	Masculino	BA.5.2.1
+5003207	2022-08-14	Corumbá	17	Feminino	BA.5.2.1
+5002100	2022-08-14	Bela Vista	49	Feminino	BA.5.1
+5002100	2022-08-14	Bela Vista	80	Masculino	BA.5.2.1
+5000856	2022-08-15	Angélica	79	Feminino	BA.5.2.1
+5004403	2022-08-15	Inocência	53	Feminino	BA.5.1
+5007695	2022-08-15	São Gabriel Do Oeste	76	Masculino	BA.5.2.1
+5008305	2022-08-13	Três Lagoas	86	Feminino	BA.5.2.1
+5005400	2022-08-16	Maracaju	28	Feminino	BA.2
+5005707	2022-08-14	Naviraí	74	Masculino	BA.5.2.1
+5007109	2022-08-15	Ribas Do Rio Pardo	64	Feminino	BA.5.2.1
+5002704	2022-08-16	Campo Grande	34	Feminino	BA.5.2.1
+5008305	2022-08-16	Três Lagoas	11	Masculino	BA.5.2.1
+5008305	2022-08-16	Três Lagoas	76	Feminino	BA.5.1
+5007208	2022-08-15	Rio Brilhante	65	Masculino	BA.5.2.1
+5006606	2022-08-16	Ponta Porã	32	Masculino	BA.2.56
+5007695	2022-08-16	São Gabriel Do Oeste	68	Feminino	BA.5.2.1
+5003256	2022-08-17	Costa Rica	51	Masculino	BA.5.1.21
+5003801	2022-08-17	Fátima Do Sul	97	Feminino	BA.5.2.1
+5003702	2022-08-16	Dourados	70	Feminino	BA.5.1
+5008305	2022-08-17	Três Lagoas	35	Feminino	BA.5.2.1
+5008305	2022-08-17	Três Lagoas	47	Feminino	BA.5.2.1
+5008305	2022-08-17	Três Lagoas	18	Feminino	BA.5.2.1
+5008305	2022-08-17	Três Lagoas	35	Feminino	BA.5.2.1
+5003207	2022-08-17	Corumbá	83	Feminino	BA.5.1
+5002704	2022-08-18	Campo Grande	84	Masculino	BA.4.4
+5002704	2022-08-18	Campo Grande	89	Feminino	BA.5.2.1
+5005400	2022-08-19	Maracaju	41	Feminino	BE.1
+5005707	2022-08-18	Naviraí	60	Feminino	BE.1
+5007406	2022-08-18	Rio Verde De Mato Grosso	77	Masculino	BA.5.1
+5008305	2022-08-18	Três Lagoas	31	Feminino	BA.5.2.1
+5003157	2022-08-17	Coronel Sapucaia	25	Masculino	BE.1
+5003157	2022-08-18	Coronel Sapucaia	39	Feminino	BA.5.1
+5003207	2022-08-19	Corumbá	34	Feminino	BA.5.2.1
+5000906	2022-08-22	Antônio João	78	Masculino	BA.5.1.10
+5003207	2022-08-22	Corumbá	39	Feminino	BA.2
+5003157	2022-08-22	Coronel Sapucaia	19	Feminino	BA.5.2.1
+5008305	2022-08-23	Três Lagoas	46	Feminino	BA.5.2.1
+5003256	2022-08-23	Costa Rica	57	Feminino	BA.5.2.1
+5002704	2022-08-23	Campo Grande	1	Masculino	BA.5.2.1
+5002704	2022-08-23	Campo Grande	17	Masculino	BA.5.2.1
+5003207	2022-08-23	Corumbá	49	Feminino	BA.5.2.1
+5003306	2022-08-24	Coxim	80	Feminino	BA.5.2.1
+5004403	2022-08-23	Inocência	67	Feminino	BA.5.2.1
+5005251	2022-08-19	Laguna Carapã	49	Feminino	BA.5.2.1
+5005707	2022-08-23	Naviraí	1	Masculino	BA.5.1
+5007406	2022-08-23	Rio Verde De Mato Grosso	38	Masculino	BA.5.1
