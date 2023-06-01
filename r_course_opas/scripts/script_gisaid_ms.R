@@ -111,8 +111,6 @@ head(dados_curados)
 str(dados_curados)
 
 #### [Plots] ####
-dados_curados %>%
-  count(sex)
 
 #### Plot: Gráfico barras de sexos ####
 # Criar tabela sexo
@@ -160,6 +158,60 @@ ggsave(plot = grafico_sexo,
        filename = paste0("resultados/gráfico_sexo_", Sys.Date(), ".png"),
        width = 8, height = 5, dpi = 500)
 
+#### Plot: Gráfico barras por categorias e sexo ####
+
+table_age_sex = dados_curados %>%
+  filter(sex != 'Não Informado') %>%
+  count(sex, cat_idade) %>%
+  rename(cat_age = cat_idade, count = n)
+
+table_age_sex = as.data.frame(table_age_sex)
+head(table_age_sex)
+
+limit_max = max(table_age_sex$count) + 20
+
+colors = c('#fe0084',
+           '#008fd5')
+
+ggplot(table_age_sex, aes(x = cat_age)) +
+  geom_col(data = subset(table_age_sex, sex == 'Feminino'), aes(y = -count, fill = 'Feminino')) +
+  geom_col(data = subset(table_age_sex, sex == 'Masculino'), aes(y = count, fill = 'Masculino')) +
+  geom_text(data = subset(table_age_sex, sex == 'Feminino'), aes(y = -count, label = count), size = 3, hjust = 1.5, color = '#6b705c') +
+  geom_text(data = subset(table_age_sex, sex == 'Masculino'), aes(y = count, label = count), size = 3, hjust = -0.5, color = '#6b705c') +
+  scale_y_continuous(expand = c(0, 0),
+                     breaks = seq(-limit_max, limit_max, by = 10),
+                     limits = c(-limit_max, limit_max),
+                     ) +
+  scale_x_discrete(limits = rev) +
+  scale_fill_manual(values = colors) +
+  coord_flip() +
+  labs(x = NULL, y = 'Número de amostras') +
+  theme(legend.title = element_blank(),
+        # legend.position = "bottom", # right | bottom
+        legend.key = element_blank(),
+        legend.key.size = unit(0.75, "cm"),
+        legend.text = element_text(size = 10),
+        legend.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = 'cm'), # top, right, bottom, left
+        axis.text.x = element_text(size = 7, colour = "#000000"),
+        axis.text.y = element_text(size = 9, colour = "#000000"),
+        axis.title.x = element_text(size = 14, colour = "#000000"),
+        axis.line.x = element_line(linewidth = 0.15, colour = "#000000"),
+        axis.ticks.x = element_line(linewidth = 0.15,  colour = "#000000"),
+        axis.ticks.y = element_blank(),
+        axis.ticks.length = unit(1, 'pt'),
+        panel.background = element_blank(),
+        panel.border = element_blank(),
+        panel.grid = element_blank(),
+        # panel.grid.major.y = element_line(linewidth = 0.25, colour = "#c8c8b9"),
+        # panel.border = element_rect(fill = NA, colour = "#000000", linewidth = .75)
+  ) -> data_plot_sex_age
+
+data_plot_sex_age
+
+ggsave(plot = data_plot_sex_age,
+       filename = paste0("resultados/grafico_cat_age_sex_", Sys.Date(), ".png"),
+       width = 8, height = 4.5, dpi = 600)
+
 #### Plot: Gráfico waffle de sexos ####
 
 labels = as.character(tabela_sexo$Sexo)
@@ -176,6 +228,7 @@ waffle(values, rows = 15, size = .3, legend_pos = "bottom",
         legend.text = element_text(size = 6.5),
         legend.key.size = unit(.4, 'cm'),
         plot.background = element_rect(fill = 'white', colour = NA)) -> grafico_waffle
+
 grafico_waffle
 
 ggsave(plot = grafico_waffle,
@@ -390,10 +443,10 @@ mapa_ms_amos_seq <- ggplot() +
   geom_sf(data = municipios_mapa,
           aes(fill = casos),
           color = "black",
-          size = .15,
+          size = .45,
           show.legend = T) +
   geom_sf(data = municipios_mapa_blank, fill = "white") +
-  geom_sf_text(data = municipios_mapa, aes(label = name_muni), size = 2.5) +
+  geom_sf_text(data = municipios_mapa, aes(label = name_muni), size = 3) +
   scale_fill_distiller(palette = "PuRd", direction = 1) +    # YlGnBu paleta de outras cores
   labs(# title = "Quantidade de amostras sequenciadas em Mato Grosso do Sul, 2022",
        # caption = "Fonte: GISAID",
@@ -405,7 +458,7 @@ mapa_ms_amos_seq <- ggplot() +
         axis.ticks = element_blank(),
         panel.background = element_rect(fill = "white"),
         title = element_text(size = 30)) +
-  annotation_north_arrow(style = north_arrow_nautical(), pad_x = unit(8, "cm")) +
+  annotation_north_arrow(style = north_arrow_nautical(), pad_x = unit(8.5, "cm")) +
   annotation_scale()
 
 mapa_ms_amos_seq
@@ -477,9 +530,9 @@ mapa_ms_amos_seq_range <- ggplot() +
   geom_sf(data = municipios_mapa_range,
           aes(fill = casos_range),
           color = "black",
-          size = .15,
+          size = .45,
           show.legend = T) +
-  geom_sf_text(data = municipios_mapa_range, aes(label = name_muni), size = 2.5) +
+  geom_sf_text(data = municipios_mapa_range, aes(label = name_muni), size = 3) +
   scale_fill_manual(values = colors) +
   labs(# title = "Quantidade de amostras sequenciadas em Mato Grosso do Sul, 2022",
        # caption = "Fonte: GISAID",
@@ -487,11 +540,15 @@ mapa_ms_amos_seq_range <- ggplot() +
   theme(axis.text.x = element_blank(),
         axis.text.y = element_blank(),
         axis.title = element_blank(),
-        legend.title = element_text(size = 13),
+        legend.title = element_text(size = 15),
+        legend.key = element_blank(),
+        legend.key.size = unit(1, "cm"),
+        legend.text = element_text(size = 13),
+        legend.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = 'cm'), # top, right, bottom, left
         axis.ticks = element_blank(),
         panel.background = element_rect(fill = "white"),
         title = element_text(size = 30)) +
-  annotation_north_arrow(style = north_arrow_nautical(), pad_x = unit(8, "cm")) +
+  annotation_north_arrow(style = north_arrow_nautical(), pad_x = unit(8.5, "cm")) +
   annotation_scale()
 
 mapa_ms_amos_seq_range
@@ -559,6 +616,41 @@ ggsave(plot = data_plot,
 #       filename = paste0("resultados/plot_bar_lineages_", Sys.Date(), ".svg"),
 #       width = 4.5, height = 2, dpi = 800, units = 'in', device = 'svg')
 
+#### Plot: Mapa de calor das linhagens por SE ####
+
+
+ggplot(data_long, aes(se, forcats::fct_rev(lineage), fill = count, size = count)) +
+  geom_point(shape = 21, stroke = 0, alpha = 1) +
+  scale_x_discrete(position = "top") +
+  scale_radius(range = c(.75, 8)) +
+  scale_fill_gradient(low = "#fca311", # orange
+                      high = "#007200", # green
+                      # limits = c(0, 1),
+                      # breaks = c(0, .5, 1),
+                      # labels = c("Great", "OK", "Bad")
+  ) +
+  labs(size = '# Genomas', fill = NULL, x = 'Semana Epidemiologica 2022', y = NULL) +
+  theme_minimal() +
+  theme(legend.position = "bottom", 
+        panel.grid.major = element_blank(),
+        axis.text.x = element_text(size = 7, color = "black", hjust = .5, vjust = .5, angle = 45),
+        axis.text.y = element_text(size = 5, color = "black"),
+        legend.title = element_text(size = 7),
+        legend.text = element_text(size = 7),
+        plot.background = element_rect(fill = "#FFFFFF", color = NA)) +
+  guides(size = guide_legend(override.aes = list(fill = NA, color = "black", stroke = .5),
+                             label.position = "bottom",
+                             # title.position = "right",
+                             nrow = 1,
+                             order = 1),
+         fill = guide_colorbar(ticks.colour = NA, title.position = "top", order = 2)) -> heatmap_plot
+
+heatmap_plot
+
+ggsave(plot = heatmap_plot,
+       filename = paste0("resultados/plot_heatmap_lineages_", Sys.Date(), ".png"),
+       width = 7, height = 5, dpi = 800, units = 'in', device = 'png')
+
 #### Plot: Gráfico de barras da abundância de linhagens ####
 
 subdata = dados_curados %>%
@@ -600,5 +692,40 @@ ggplot(data = subdata, aes(x = lineage, y = count)) + # , fill = lineage
 data_plot_h
 
 ggsave(plot = data_plot_h,
-       filename = paste0("resultados/gráfico_abund_linhagens_", Sys.Date(), ".png"),
+       filename = paste0("resultados/gráfico_abund_linhagens_horizontal_", Sys.Date(), ".png"),
        width = 5.5, height = 3.5, dpi = 800)
+
+limit_y = ceiling(max(subdata$count, na.rm = TRUE)) + 15
+
+ggplot(data = subdata, aes(x = lineage, y = count)) + # , fill = lineage
+  geom_bar(stat = 'identity', width = 0.6, fill = "#2a9d8f") + # steelblue
+  geom_text(aes(x = lineage,
+                y = count,
+                label = count),
+            hjust = -.5,
+            size = 1.25,
+            color = '#6b705c') +
+  scale_y_continuous(name = "Frequency",
+                     expand = c(0, 0),
+                     limits = c(0, limit_y),
+                     breaks = seq(0, limit_y, by = 10)) +
+  scale_x_discrete(name = "Lineages", limits = rev) +
+  coord_flip() +
+  theme_minimal() +
+  theme(legend.position = "none",
+        panel.background = element_blank(),
+        axis.text.x = element_text(colour = 'black', size = 4),
+        axis.text.y = element_text(colour = 'black', size = 4),
+        axis.title.x = element_text(colour = 'black', size = 8),
+        axis.title.y = element_text(colour = 'black', size = 8),
+        panel.grid.major = element_line(linewidth = 0.2, colour = "#EEF0F3", linetype = "dashed"),
+        panel.grid.minor = element_blank(),
+        panel.border = element_rect(fill = NA, colour = "grey50", linewidth = .5),
+        axis.ticks = element_line(colour = 'grey50', linewidth = 0.25),
+        axis.ticks.length.y = unit(.05, "cm"),
+        axis.ticks.length.x = unit(.05, "cm"),
+        plot.background =  element_rect(fill = "#FFFFFF", color = NA)) -> data_plot_v
+
+ggsave(plot = data_plot_v,
+       filename = paste0("resultados/gráfico_abund_linhagens_vertical_", Sys.Date(), ".png"),
+       width = 2.25, height = 3.5, dpi = 800)
